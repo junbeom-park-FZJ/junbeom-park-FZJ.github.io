@@ -1,6 +1,6 @@
 ---
 title: First page in github pages
-date: 2024-03-24 10:00 +0100
+date: 2024-03-24 10:00:00 +0100
 categories: [Blog, Personal life]
 tags: [blog, github, jekyll]     # TAG names should always be lowercase
 ---
