@@ -40,8 +40,8 @@ My experience began from material synthesis (carbon nanotube fiber via floating 
 <img src='/assets/Attachments/CV/FIB lamella prep.png' width=700 alt='Image: FIB/SEM lamella prep. for in-situ TEM'>
 </details>
 
-<details><summary> Catalytic activity and agglomeration of catalyst particles near reaction temperature (around 1000 oC) [[ref]](https://doi.org/10.1016/j.carbon.2020.11.065)
-</summary>
+Catalytic activity and agglomeration of catalyst particles near reaction temperature (around 1000 oC) [[ref]](https://doi.org/10.1016/j.carbon.2020.11.065)
+<details>
 <img src='/assets/Attachments/CV/Agglomeration catalyst.png' width=700 alt='Image: Catalyst agglomeration'>
 </details>
 
