@@ -79,6 +79,6 @@ My experience began from material synthesis (carbon nanotube fiber via floating 
 
 <details><summary> Carbon nanotube fiber fabrication process video
 </summary>
-<img src='/junbeom-park-FZJ/junbeom-park-FZJ.github.io/assets/Attachments/CV/Synthesis_of_CNT_yarn.gif' width=700>
+<img src='junbeom-park-FZJ/junbeom-park-FZJ.github.io/assets/Attachments/CV/Synthesis_of_CNT_yarn.gif' width=700>
 </details>
 
