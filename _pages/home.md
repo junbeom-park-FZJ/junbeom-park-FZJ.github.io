@@ -19,7 +19,7 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/CV/Image_lamella_prep.png
+  - image_path: /assets/images/CV/Image_Lamella_prep.png
     alt: "FIB lamella prep."
     title: "Lamella prep. for in-situ TEM"
     excerpt: "Sample prep. is important step to proceed the in-situ TEM."
