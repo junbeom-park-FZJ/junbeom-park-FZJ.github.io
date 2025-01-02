@@ -12,21 +12,21 @@ excerpt: >
   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.26.2">Latest release v4.26.2</a></small>
 feature_row:
-  - image_path: /_images/CV/Movie_Dendrite_growth.gif
+  - image_path: /assets/images/CV/Movie_Dendrite_growth.gif
     alt: "Dendrite growth video"
     title: "Dendrite growth"
     excerpt: "Observation of Dendrite growth via in-situ liquid phase TEM."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /_images/CV/Image_lamella_prep.png
+  - image_path: /assets/images/CV/Image_lamella_prep.png
     alt: "FIB lamella prep."
     title: "Lamella prep. for in-situ TEM"
     excerpt: "Sample prep. is important step to proceed the in-situ TEM."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /_images/CV/Image_Mathematical_model.png
+  - image_path: /assets/images/CV/Image_Mathematical_model.png
     alt: "Structural analysis"
     title: "Structural analysis"
     excerpt: "Analysis of mechanical behavior leads to the structural information."
