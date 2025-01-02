@@ -1,7 +1,7 @@
 ---
-layout: single
-title: "Home"
+layout: splash
 permalink: /
+title: "Home"
 ---
 
 
