@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Curriculum Vitae"
+---
+
+
 # Dr. Junbeom Park
 ## Contact information
 Staff Scientist
