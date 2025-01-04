@@ -20,7 +20,7 @@ feature_row:
   - image_path: /assets/images/CV/Movie_Dendrite_growth.gif
     alt: "Dendrite growth video"
     title: "Dendrite growth"
-    excerpt: "Observation of Dendrite growth via in-situ liquid phase TEM. <a href="https://doi.org/10.1002/smtd.202400081">ref</a>"
+    excerpt: "Observation of Dendrite growth via in-situ liquid phase TEM."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
