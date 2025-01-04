@@ -5,17 +5,19 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   # overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Download my CV"
-      url: "/images/CV/Curriculum_vitae.pdf"
+  # actions:
+  #   - label: "<i class='fas fa-download'></i> Download my CV"
+  #     url: "/images/CV/Curriculum_vitae.pdf"
 excerpt: >
-  <small><b>Staff Scientist</b> at in-situ Electron Microscopy (iEM) group, <br>
-  Low Temperature Water Electrolyzer (LTWE) department, <br>
-  Institute of Energy Technologies-Fundamental Electrochemistry (IET-1), <br>
-  Forschungszentrum Jülich GmbH, Germany <br>
-  <a href="https://scholar.google.com/citations?user=WXKca60AAAAJ&hl=en">Google scholar</a>
-  <a href="https://orcid.org/0000-0003-2548-2985">ORCID</a>
-  <a href="https://www.fz-juelich.de/en/iet/iet-1">IET-1 webpage</a></small>
+  <div style="line-height:150%;">
+    <small><b>Staff Scientist</b> at in-situ Electron Microscopy (iEM) group, <br>
+    Low Temperature Water Electrolyzer (LTWE) department, <br>
+    Institute of Energy Technologies-Fundamental Electrochemistry (IET-1), <br>
+    Forschungszentrum Jülich GmbH, Germany <br>
+    <a href="https://scholar.google.com/citations?user=WXKca60AAAAJ&hl=en">Google scholar</a>
+    <a href="https://orcid.org/0000-0003-2548-2985">ORCID</a>
+    <a href="https://www.fz-juelich.de/en/iet/iet-1">IET-1 webpage</a></small>
+  </div>
 feature_row:
   - image_path: /assets/images/CV/Movie_Dendrite_growth.gif
     alt: "Dendrite growth video"
