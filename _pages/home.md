@@ -9,10 +9,10 @@ header:
     - label: "<i class='fas fa-download'></i> Download my CV"
       url: "/images/CV/Curriculum_vitae.pdf"
 excerpt: >
-  <small><b>Staff Scientist</b> at in-situ Electron Microscopy (iEM) group, <br/>
-  Low Temperature Water Electrolyzer (LTWE) department, <br/>
-  Institute of Energy Technologies-Fundamental Electrochemistry(IET-1), <br/>
-  Forschungszentrum Jülich GmbH, Germany <br/>
+  <small><b>Staff Scientist</b> at in-situ Electron Microscopy (iEM) group, <br>
+  Low Temperature Water Electrolyzer (LTWE) department, <br>
+  Institute of Energy Technologies-Fundamental Electrochemistry (IET-1), <br>
+  Forschungszentrum Jülich GmbH, Germany <br>
   <a href="https://scholar.google.com/citations?user=WXKca60AAAAJ&hl=en">Google scholar</a>
   <a href="https://orcid.org/0000-0003-2548-2985">ORCID</a>
   <a href="https://www.fz-juelich.de/en/iet/iet-1">IET-1 webpage</a></small>
@@ -45,6 +45,7 @@ feature_row:
 # Introduction
 
 > As a material engineer, I have interests on improving the material and process via **investigating the fundamental mechanisms**.
+
 - My experience began from **material synthesis** (carbon nanotube fiber via floating catalyst method) and **material analysis** (morphology, structural arrangement, crystallinity and mechanical properties). 
 - After that, I shifted to the **in-situ TEM technique**, which enables to investigate the variety of material's properties (ex. phase, crystallinity, composition) or process (ex. agglomeration, electrodeposition) related to environmental conditions (ex. temperature, gas pressure, electricity). 
 - Additionally, I started python based **image processing** (ex. segmentation, edge detection) to extract more information from various electron microscopy data (ex. in-situ video, Tomography, 4D STEM).
