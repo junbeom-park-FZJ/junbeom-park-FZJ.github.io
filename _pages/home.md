@@ -9,12 +9,12 @@ header:
   #   - label: "<i class='fas fa-download'></i> Download my CV"
   #     url: "/images/CV/Curriculum_vitae.pdf"
 excerpt: >
-  <div style="line-height:100%;">
-    <small><b>Staff Scientist</b> at in-situ Electron Microscopy (iEM) group, <br>
+  <div style="line-height:100%;color:white;">
+    <b>Staff Scientist</b> at in-situ Electron Microscopy (iEM) group, <br>
     Low Temperature Water Electrolyzer (LTWE) department, <br>
     Institute of Energy Technologies-Fundamental Electrochemistry (IET-1), <br>
-    Forschungszentrum Jülich GmbH, Germany <br>
-    <a href="https://scholar.google.com/citations?user=WXKca60AAAAJ&hl=en">Google scholar</a>
+    Forschungszentrum Jülich (FZJ), Germany <br>
+    <small><a href="https://scholar.google.com/citations?user=WXKca60AAAAJ&hl=en">Google scholar</a>
     <a href="https://orcid.org/0000-0003-2548-2985">ORCID</a>
     <a href="https://www.fz-juelich.de/en/iet/iet-1">IET-1 webpage</a></small>
   </div>
@@ -39,7 +39,9 @@ feature_row:
   - image_path: /assets/images/CV/Image_Mathematical_model.png
     alt: "Structural analysis"
     title: "Structural analysis"
-    excerpt: "Analysis of mechanical behavior leads to the structural information."
+    excerpt: >
+      Analysis of mechanical behavior leads to the structural information.
+      <a href="https://doi.org/10.1016/j.carbon.2019.05.077">[ref]</a>
     # url: "/docs/license/"
     # btn_class: "btn--primary"
     # btn_label: "Learn more"      
@@ -60,13 +62,6 @@ feature_row:
 {% include feature_row %}
 
 
-#### Visualization of Zn dendritic growth by electrodeposition via image processing [[ref]](https://doi.org/10.1002/smtd.202400081)
-
-#### FIB-SEM based sample preparation for in-situ TEM experiment
-
-#### Mathematical model to correlate between structure and mechanical behavior of CNT fiber [[ref]](https://doi.org/10.1016/j.carbon.2019.05.077)
-
-### Other experiences
 
 #### [Image processing for electron microscopy data](https://iffmd.fz-juelich.de/s/H0wfLCQj_)
 
