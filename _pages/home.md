@@ -9,12 +9,13 @@ header:
   #   - label: "<i class='fas fa-download'></i> Install now"
   #     url: "/docs/quick-start-guide/"
 excerpt: >
-  Staff Scientist at in-situ Electron Microscopy (iEM) group, Low Temperature Water Electrolyzer (LTWE) department, <br/>
-  Institute of Energy Technologies-Fundamental Electrochemistry (IET-1), Forschungszentrum Jülich GmbH, Germany <br/>
+  Staff Scientist at in-situ Electron Microscopy (iEM) group, <br/>
+  Low Temperature Water Electrolyzer (LTWE) department, <br/>
+  Institute of Energy Technologies-Fundamental Electrochemistry (IET-1), <br/>
+  Forschungszentrum Jülich GmbH, Germany <br/>
   <small><a href="https://scholar.google.com/citations?user=WXKca60AAAAJ&hl=en">Google scholar</a>
-  <a href="https://orcid.org/0000-0003-2548-2985">ORCID</a></small>
+  <a href="https://orcid.org/0000-0003-2548-2985">ORCID</a>
   <a href="https://www.fz-juelich.de/en/iet/iet-1">IET-1 webpage</a></small>
-  iEM group is looking for people (Master, PhD students or Post-doc.) who have interests on <b>Electron Microscopy</b>. Please contact to me or group leader ([Dr. Shibabrata Basak](mailto:s.basak@fz-juelich.de)) if you have any questions.
 feature_row:
   - image_path: /assets/images/CV/Movie_Dendrite_growth.gif
     alt: "Dendrite growth video"
@@ -38,6 +39,8 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
+
+> **iEM group** is looking for people (Master, PhD students or Post-doc.) who have interests on **Electron Microscopy**. Please contact to me or group leader ([Dr. Shibabrata Basak](mailto:s.basak@fz-juelich.de)) if you have any questions.
 
 {% include feature_row %}
 
