@@ -4,13 +4,17 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+  # overlay_image: /assets/images/mm-home-page-feature.jpg
+  # actions:
+  #   - label: "<i class='fas fa-download'></i> Install now"
+  #     url: "/docs/quick-start-guide/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.26.2">Latest release v4.26.2</a></small>
+  Staff Scientist at in-situ Electron Microscopy (iEM) group, Low Temperature Water Electrolyzer (LTWE) department, <br/>
+  Institute of Energy Technologies-Fundamental Electrochemistry (IET-1), Forschungszentrum Jülich GmbH, Germany <br/>
+  <small><a href="https://scholar.google.com/citations?user=WXKca60AAAAJ&hl=en">Google scholar</a>
+  <a href="https://orcid.org/0000-0003-2548-2985">ORCID</a></small>
+  <a href="https://www.fz-juelich.de/en/iet/iet-1">IET-1 webpage</a></small>
+  iEM group is looking for people (Master, PhD students or Post-doc.) who have interests on <b>Electron Microscopy</b>. Please contact to me or group leader ([Dr. Shibabrata Basak](mailto:s.basak@fz-juelich.de)) if you have any questions.
 feature_row:
   - image_path: /assets/images/CV/Movie_Dendrite_growth.gif
     alt: "Dendrite growth video"
