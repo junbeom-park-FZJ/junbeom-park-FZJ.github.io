@@ -9,14 +9,14 @@ header:
   #   - label: "<i class='fas fa-download'></i> Download my CV"
   #     url: "/images/CV/Curriculum_vitae.pdf"
 excerpt: >
-  <div style="line-height:100%;color:white;">
+  <div style="line-height:120%;color:white;">
     <b>Staff Scientist</b> at in-situ Electron Microscopy (iEM) group, <br>
     Low Temperature Water Electrolyzer (LTWE) department, <br>
     Institute of Energy Technologies-Fundamental Electrochemistry (IET-1), <br>
     Forschungszentrum Jülich (FZJ), Germany <br>
-    <small><a href="https://scholar.google.com/citations?user=WXKca60AAAAJ&hl=en">Google scholar</a>
+    <a href="https://scholar.google.com/citations?user=WXKca60AAAAJ&hl=en">Google scholar</a>
     <a href="https://orcid.org/0000-0003-2548-2985">ORCID</a>
-    <a href="https://www.fz-juelich.de/en/iet/iet-1">IET-1 webpage</a></small>
+    <a href="https://www.fz-juelich.de/en/iet/iet-1">IET-1 webpage</a>
   </div>
 feature_row:
   - image_path: /assets/images/CV/Movie_Dendrite_growth.gif
