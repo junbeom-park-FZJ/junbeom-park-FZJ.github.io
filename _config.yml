@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Dr. Junbeom Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Researcher"
   location         : "Juelich, Germany"
-  email            : "j.park@fz-juelich.de"
+  email            : #j.park@fz-juelich.de
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
