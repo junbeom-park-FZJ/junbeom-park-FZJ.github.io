@@ -9,7 +9,7 @@ header:
   #   - label: "<i class='fas fa-download'></i> Download my CV"
   #     url: "/images/CV/Curriculum_vitae.pdf"
 excerpt: >
-  <div style="line-height:150%;">
+  <div style="line-height:100%;">
     <small><b>Staff Scientist</b> at in-situ Electron Microscopy (iEM) group, <br>
     Low Temperature Water Electrolyzer (LTWE) department, <br>
     Institute of Energy Technologies-Fundamental Electrochemistry (IET-1), <br>
@@ -22,24 +22,27 @@ feature_row:
   - image_path: /assets/images/CV/Movie_Dendrite_growth.gif
     alt: "Dendrite growth video"
     title: "Dendrite growth"
-    excerpt: "Observation of Dendrite growth via in-situ liquid phase TEM."
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+    excerpt: >
+      Observation of Dendrite growth via in-situ liquid phase TEM.
+      <a href="https://doi.org/10.1002/smtd.202400081">[ref]</a>
+
+    # url: "/docs/configuration/"
+    # btn_class: "btn--primary"
+    # btn_label: "Learn more"
   - image_path: /assets/images/CV/Image_Lamella_prep.png
     alt: "FIB lamella prep."
     title: "Lamella prep. for in-situ TEM"
     excerpt: "Sample prep. is important step to proceed the in-situ TEM."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+    # url: "/docs/layouts/"
+    # btn_class: "btn--primary"
+    # btn_label: "Learn more"
   - image_path: /assets/images/CV/Image_Mathematical_model.png
     alt: "Structural analysis"
     title: "Structural analysis"
     excerpt: "Analysis of mechanical behavior leads to the structural information."
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    # url: "/docs/license/"
+    # btn_class: "btn--primary"
+    # btn_label: "Learn more"      
 ---
 
 > **iEM group** is looking for people (Master, PhD students or Post-doc.) who have interests on **Electron Microscopy**. Please contact to me or group leader ([Dr. Shibabrata Basak](mailto:s.basak@fz-juelich.de)), if you have any questions.
