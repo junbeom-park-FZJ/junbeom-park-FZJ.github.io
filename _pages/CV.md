@@ -7,6 +7,7 @@ toc_sticky: true
 ---
 
 # Education
+
 <table style="width:600px">
     <tr>
         <th style="width:75%">
@@ -15,7 +16,7 @@ toc_sticky: true
         <th>
             Period, Location
         </th>
-    <tr>
+    </tr>
     <tr>
         <td>
             <b>MS-Ph.D. Integrated program, Chemical Engineering</b><br>
@@ -50,6 +51,7 @@ toc_sticky: true
         <th>
             Period, Location
         </th>
+    </tr>
     <tr>
         <td>
             <b>Staff scientist</b><br>
@@ -210,7 +212,7 @@ toc_sticky: true
         <th>
             Period, Location
         </th>
-    <tr>
+    </tr>
     <tr>
         <td>
             <b>Chair of Materials Division</b><br>
