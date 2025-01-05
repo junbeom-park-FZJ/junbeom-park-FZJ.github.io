@@ -2,8 +2,8 @@
 layout: single
 title: "Publications"
 permalink: /Pub/
-classes: wide
 toc: true
+toc_sticky: true
 ---
 
 # Summary and Key paper list

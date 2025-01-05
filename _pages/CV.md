@@ -126,7 +126,7 @@ toc_sticky: true
 
 
 # References
-<ul style="font-size:100%;">
+<ul style="font-size:80%;">
     <li>
         <a href='mailto:s.basak@fz-juelich.de'><b>Dr. Shibabrata Basak</b></a>
         : Institute of Energy Technologies - Fundamental Electrochemistry (IET-1), Forschungszentrum Jülich (FZJ), Germany
