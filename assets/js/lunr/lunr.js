@@ -2258,7 +2258,7 @@ lunr.Index.prototype.toJSON = function () {
 
   var fieldVectors = Object.keys(this.fieldVectors)
     .map(function (ref) {
-      return [ref, this.fieldVectors[ref].toJSON()]
+      return [ref, this.fieldVectors[[ref]].toJSON()]
     }, this)
 
   return {
@@ -2294,7 +2294,7 @@ lunr.Index.load = function (serializedIndex) {
         ref = tuple[0],
         elements = tuple[1]
 
-    fieldVectors[ref] = new lunr.Vector(elements)
+    fieldVectors[[ref]] = new lunr.Vector(elements)
   }
 
   for (var i = 0; i < serializedInvertedIndex.length; i++) {
