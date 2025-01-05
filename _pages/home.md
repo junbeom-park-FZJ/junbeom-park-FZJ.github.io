@@ -60,13 +60,3 @@ feature_row:
 
 # Research experiences
 {% include feature_row %}
-
-
-
-#### [Image processing for electron microscopy data](https://iffmd.fz-juelich.de/s/H0wfLCQj_)
-
-#### [Analysis of reaction mechanisms via in-situ TEM](https://iffmd.fz-juelich.de/s/Ui5GX6YQz#)
-
-#### [Analysis of structure and mechanical properties of material](https://iffmd.fz-juelich.de/s/k9uQRuqBd#)
-
-#### [Fabrication of carbon nanotube fiber via floating catalyst method](https://iffmd.fz-juelich.de/s/emk8T_ueI#)
