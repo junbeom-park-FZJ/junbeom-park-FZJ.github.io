@@ -3,6 +3,7 @@ layout: single
 title: "Publications"
 permalink: /Pub/
 classes: wide
+toc: true
 ---
 
 # Summary and Key paper list
@@ -19,8 +20,8 @@ classes: wide
 *Junbeom Park*, Jaegeun Lee, Dong-Myeong Lee, Sung-Hyun Lee, Hyeon Su Jeong, Kun-Hong Lee, Seung Min Kim | Carbon 152 (2019) 151
 
 # Journal papers
-
-1. **Titanium nitride microelectrode: a new candidate for in-situ electrochemical transmission electron microscopy study** [ref](https://doi.org/10.1002/adem.202302146)
+## Period 2020s
+1. **Titanium nitride microelectrode: a new candidate for in-situ electrochemical transmission electron microscopy study** [[ref]](https://doi.org/10.1002/adem.202302146)
 *Junbeom Park#*, Ningyan Cheng#, Binghui Ge, Yevheniy Pivak, Hongyu Sun, H. Hugo Pérez Garz, Shibabrata Basak, Rüdiger-A. Eichel | Advanced Engineering Materials (2024)DOI:10.1002/adem.202302146 (#: Equal contribution)
 1. **Towards quantitative electrodeposition via in-situ liquid phase Transmission Electron Microscopy: Studying Electroplated Zinc using Basic Image Processing and 4D STEM** [ref] (https://doi.org/10.1002/smtd.202400081)
 *Junbeom Park*, Sarmila Dutta, Hongyu Sun, Janghyun Jo, Pranav Karanth, Dieter Weber, Amir H. Tavabi, Yasin Emre Durmus, Krzysztof Dzieciol, Hans Kungl, Yevheniy Pivak, H. Hugo Pérez Garza, Chandramohan George, Joachim Mayer, Rafal E. Dunin-Borkowski, Shibabrata Basak, Rüdiger-A. Eichel | Small Methods (2024) DOI:10.1002/smtd.202400081
@@ -32,12 +33,7 @@ Yevheniy Pivak#, *Junbeom Park#*, Shibabrata Basak, Rüdiger-Albert Eichel, Anne
 Sung-Hyun Lee#, *Junbeom Park#*, Ji Hong Park#, Dong-Myeong Lee#, Anna Lee, Sook Young Moon, Sei Young Lee, Hyeon Su Jeong, Seung Min Kim | Carbon 173 (2021) 901 (#: Equal contribution)
 1. **Improving mechanical and physical properties of ultra-thick carbon nanotube fiber by fast swelling and stretching process** [ref](http://doi.org/10.1016/j.carbon.2020.10.068)
 Dong-Myeong Lee#, *Junbeom Park#*, Jaegeun Lee, Sung-Hyun Lee, Shin-Hyun Kim, Seung Min Kim, Hyeon Su Jeong | Carbon 172 (2021) 733 (#: Equal contribution)
-1. **Mathematical model for the dynamic behavior of carbon nanotube yarn in analogy with hierarchically structured bio-materials** [ref](https://doi.org/10.1016/j.carbon.2019.05.077)
-*Junbeom Park*, Jaegeun Lee, Dong-Myeong Lee, Sung-Hyun Lee, Hyeon Su Jeong, Kun-Hong Lee, Seung Min Kim | Carbon 152 (2019) 151
-1. **Accurate measurement of specific tensile strength of carbon nanotube fibers with hierarchical structures by vibroscopic method** [ref](https://doi.org/10.1039/C6RA26607J)
-*Junbeom Park*, Sung-Hyun Lee, Jaegeun Lee, Dong-Myeong Lee, Hayoung Yu, Hyeon Su Jeong, Seung Min Kim, Kun-Hong Lee | RSC Advances 7 (2017) 8575
-1. **Carbon nanotube yarns** [ref](https://doi.org/10.1007/s11814-012-0016-1)
-*Junbeom Park*, Kun-Hong Lee | Korean Journal of Chemical Engineering 29 (2012) 277
+
 1. **Effect of Low Environmental Pressure on Sintering Behavior of NASICON-Type Li1.3Al0.3Ti1.7(PO4)3 Solid Electrolytes: An In Situ ESEM Study** [ref](https://doi.org/10.1021/acs.cgd.2c01098)
 Osmane Camara, Qi Xu, *Junbeom Park*, Shicheng Yu, Xin Lu, Krzysztof Dzieciol, Roland Schierholz, Hermann Tempel, Hans Kungl, Chandramohan George, Joachim Mayer, Shibabrata Basak, and Rüdiger-A. Eichel | Crystal Growth & Design 23 (2023) 1522
 1. **Screening of Coatings for an All-Solid-State Battery using In Situ Transmission Electron Microscopy** [ref](https://dx.doi.org/10.3791/64316)
@@ -52,6 +48,14 @@ Sung-Hyun Lee, *Junbeom Park*, Sook Young Moon, Sei Young Lee, Seung Min Kim | A
 Ji Hong Park, *Junbeom Park*, Sung-Hyun Lee, Seung Min Kim | Carbon Letter 30 (2020) 613
 1. **Different thermal degradation mechanisms: Role of aluminum in Ni-rich layered cathode materials** [ref](https://doi.org/10.1016/j.nanoen.2020.105367)
 Eunmi Jo, Jae-Ho Park, *Junbeom Park*, Jieun Hwang, Kyung Yoon Chung, Kyung-Wan Nam, Seung Min Kim, Wonyoung Chang | Nano Energy 78 (2020) 105367
+
+## Period 2010s
+1. **Mathematical model for the dynamic behavior of carbon nanotube yarn in analogy with hierarchically structured bio-materials** [ref](https://doi.org/10.1016/j.carbon.2019.05.077)
+*Junbeom Park*, Jaegeun Lee, Dong-Myeong Lee, Sung-Hyun Lee, Hyeon Su Jeong, Kun-Hong Lee, Seung Min Kim | Carbon 152 (2019) 151
+1. **Accurate measurement of specific tensile strength of carbon nanotube fibers with hierarchical structures by vibroscopic method** [ref](https://doi.org/10.1039/C6RA26607J)
+*Junbeom Park*, Sung-Hyun Lee, Jaegeun Lee, Dong-Myeong Lee, Hayoung Yu, Hyeon Su Jeong, Seung Min Kim, Kun-Hong Lee | RSC Advances 7 (2017) 8575
+1. **Carbon nanotube yarns** [ref](https://doi.org/10.1007/s11814-012-0016-1)
+*Junbeom Park*, Kun-Hong Lee | Korean Journal of Chemical Engineering 29 (2012) 277
 1. **Bio-inspired incorporation of functionalized graphene oxide into carbon nanotube fibers for their efficient mechanical reinforcement** [ref](https://doi.org/10.1016/j.compscitech.2019.107680)
 Young-Jin Kim, *Junbeom Park*, Cheol-Min Yang, Hyeon Su Jeong, Seung Min Kim, Sang Woo Han, Beomjoo Yang, Young-Kwan Kim | Composite Science and Technology 181 (2019)
 107680
@@ -94,8 +98,6 @@ Hee Jin Kim, Jaegeun Lee, Byungrak Park, Jeong-Hoon Sa, Alum Jung, Teawon Kim, *
 Jaegeun Lee, Eugene Oh, Teawon Kim, Jeong-Hoon Sa, Sung-Hyun Lee, *Junbeom Park*, Dustin Moon, In Seok Kang, Myung Jong Kim, Seung Min Kim, Kun-Hong Lee | Carbon 93 (2015) 217
 1. **Synthesis of high-quality carbon nanotube fibers by controlling the effects of sulfur on the catalyst agglomeration during the direct spinning process** [ref](https://doi.org/10.1039/C5RA04691B)
 Sung-Hyun Lee, *Junbeom Park*, Hye-Rim Kim, Jaegeun Lee, Kun-Hong Lee | RSC Advances 5 (2015) 41894
-
-## 2010s
 1. **(Korean) Enhancement of the Mechanical Properties of CNT Fibers Synthesized by Direct Spinning Method with Various Post-Treatments** [ref](https://doi.org/10.7234/composres.2015.28.4.239)
 Jin-seok Kim, *Junbeom Park*, Seung Min Kim, L. K. Kwac, Jun Yeon Hwang | Composites Research 28 (2015) 239
 1. **The reason for an upper limit to the height of spinnable carbon nanotube forests** [ref](https://doi.org/10.1007/s10853-013-7494-3)

@@ -3,32 +3,27 @@ layout: single
 title: "Curriculum Vitae"
 permalink: /CV/
 classes: wide
+toc: true
 ---
 
 # Education
-<div class="row">
-  <div class="col-md-8" markdown="1">
-      <b>MS-Ph.D. Integrated program, Chemical Engineering</b><br>
+<table style="width:100%">
+    <tr>
+        <td style="width:70%"><b>MS-Ph.D. Integrated program, Chemical Engineering</b><br>
       Pohang University of Science and Technology (POSTECH)<br>
       Thesis title: Structural Analysis of Carbon Nanotube Yarn <br>
-      Supervisor: Prof. Kun-Hong Lee
-  </div>
-  <div class="col-md-4" markdown="1">
-      Mar. 2012 - Aug. 2017<br>
-      Pohang, South Korea
-  </div>
-</div>
-<br>
-<div class="row">
-  <div class="col-md-8" markdown="1">
-      <b>Bachelor, Chemical Engineering</b><br>
-      Pohang University of Science and Technology (POSTECH)<br>
-  </div>
-  <div class="col-md-4" markdown="1">
-      Mar. 2008 - Feb. 2012<br>
-      Pohang, South Korea
-  </div>
-</div>
+      Supervisor: Prof. Kun-Hong Lee</td>
+        <td>Mar. 2012 - Aug. 2017<br>
+      Pohang, South Korea</td>
+    </tr>
+    <tr>
+        <td><b>Bachelor, Chemical Engineering</b><br>
+      Pohang University of Science and Technology (POSTECH)<br></td>
+        <td>Mar. 2008 - Feb. 2012<br>
+      Pohang, South Korea</td>
+    </tr>
+</table>
+
 
 # Work experience
 <div class="row">
@@ -113,15 +108,15 @@ classes: wide
 - [Prof. Jaegeun Lee](mailto:jglee@pusan.ac.kr): Department of Organic Material Science and Egnineering, Pusan National University (PNU), South Korea
 
 # Specialized skills
-| Skills | Experiences |
-|:------:|:-----------|
-| TEM               | High resolution imaging, Electron diffraction, Aberration correction, 4D STEM, EDS and EELS   |
-| in-situ TEM       | MEMS chip-based experiments: Heating, Biasing, Gas-Heating, Liquid-Biasing and Indentation    |
-| Data processing   | Python based image processing (segmentation, edge detection), 4D STEM data analysis           |
-| FIB/SEM           | Cross-section imaging, TEM lamella prep., Lamella designing, Lamella transfer to MEMS chip    |
-| Process engineering| Furnace, Gas flowing system, Sputter, Glove box, Plasma cleaner, cross-section polisher      |
-| Raman spectroscopy| Crystallinity qualification, Nanotube’s diameter calculation, Alignment state determination   |
-| Tensile testing   | Tensile strength measurement, Linear density measurement, Internal structure determination    |
+| Skills                |  Experiences                                                                                  |
+|:------:               |:-----------                                                                                   |
+| TEM                   | High resolution imaging, Electron diffraction, Aberration correction, 4D STEM, EDS and EELS   |
+| in-situ TEM           | MEMS chip-based experiments: Heating, Biasing, Gas-Heating, Liquid-Biasing and Indentation    |
+| Data processing       | Python based image processing (segmentation, edge detection), 4D STEM data analysis           |
+| FIB/SEM               | Cross-section imaging, TEM lamella prep., Lamella designing, Lamella transfer to MEMS chip    |
+| Process engineering   | Furnace, Gas flowing system, Sputter, Glove box, Plasma cleaner, cross-section polisher      |
+| Raman spectroscopy    | Crystallinity qualification, Nanotube’s diameter calculation, Alignment state determination   |
+| Tensile testing       | Tensile strength measurement, Linear density measurement, Internal structure determination    |
 
 # Professional Experiences
 <div class="row">
