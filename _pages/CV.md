@@ -8,7 +8,7 @@ toc_sticky: true
 
 # Education
 
-<table style="width:600px">
+<table style="width:800px">
     <tr>
         <th style="width:75%">
             Degree, Institute
@@ -43,7 +43,7 @@ toc_sticky: true
 
 
 # Work experience
-<table style="width:600px">
+<table style="width:800px">
     <tr>
         <th style="width:75%">
             Position, Institute, Topic, Skills
@@ -126,15 +126,27 @@ toc_sticky: true
 
 
 # References
-<small>
-- [Dr. Shibabrata Basak](mailto:s.basak@fz-juelich.de): Institute of Energy Technologies - Fundamental Electrochemistry (IET-1), Forschungszentrum Jülich (FZJ), Germany
-- [Dr. Seung Min Kim](mailto:seungmin.kim@kist.re.kr): Carbon Composite Mateirals Research center, Korea Institute of Science and Technology (KIST), South Korea
-- [Prof. Kun-Hong Lee](mailto:ce20047@postech.ac.kr): Department of Chemical Engineering, Pohang University of Science and Technology (POSTECH), South Korea
-- [Prof. Jaegeun Lee](mailto:jglee@pusan.ac.kr): Department of Organic Material Science and Egnineering, Pusan National University (PNU), South Korea
-</small>
+<ul style="font-size:100%;">
+    <li>
+        <a href='mailto:s.basak@fz-juelich.de'><b>Dr. Shibabrata Basak</b></a>
+        : Institute of Energy Technologies - Fundamental Electrochemistry (IET-1), Forschungszentrum Jülich (FZJ), Germany
+    </li>
+    <li>
+        <a href='mailto:seungmin.kim@kist.re.kr'><b>Dr. Seung Min Kim</b></a>
+        : Carbon Composite Mateirals Research center, Korea Institute of Science and Technology (KIST), South Korea
+    </li>
+    <li>
+        <a href='mailto:ce20047@postech.ac.kr'><b>Prof. Kun-Hong Lee</b></a>
+        : Department of Chemical Engineering, Pohang University of Science and Technology (POSTECH), South Korea
+    </li>
+    <li>
+        <a href='mailto:jglee@pusan.ac.kr'><b>Prof. Jaegeun Lee</b></a>
+        : Department of Organic Material Science and Egnineering, Pusan National University (PNU), South Korea
+    </li>
+</ul>
 
 # Specialized skills
-<table style="width:600px">
+<table style="width:800px">
     <tr>
         <th style="width:20%">
             Skill
@@ -204,7 +216,7 @@ toc_sticky: true
 
 
 # Professional Experiences
-<table style="width:600px">
+<table style="width:800px">
     <tr>
         <th style="width:75%">
             Role and Experience
