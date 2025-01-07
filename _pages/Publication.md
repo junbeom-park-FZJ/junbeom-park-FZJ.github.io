@@ -116,6 +116,9 @@ Seung Min Kim, Jae Geun Lee, Dong Myeong Lee, *Jun Beom Park*, Jun Yeon Hwang, H
 
 # Presentations
 ## A. Seminars and Lectures
+1. (Seminar) **Strength measurement of Material**<br>
+*Junbeom Park*<br>
+VeKNI (The Korean Scientists and Engineers Association in Germany) Material division Workshop, 2024, Aachen, Germany
 1. (Seminar) **Toward Live processing on in-situ TEM**<br>
 *Junbeom Park*<br>
 VeKNI (The Korean Scientists and Engineers Association in Germany) Region 5 Workshop, 2024, Aachen, Germany
@@ -133,6 +136,9 @@ VeKNI (The Korean Scientists and Engineers Association in Germany) Region 5 Work
 Institute of Advanced Composite Materials, Korea Institute of Science and Technology (KIST) Jeonbuk, 2017, Wanju, Korea
 
 ## B. Oral presentations at conferences
+1. **Utilizing Data Processing for Enhanced Material Characterization**<br>
+*Junbeom Park*<br>
+VeKNI (The Korean Scientists and Engineers Association in Germany) 2024 conference, 2024, Essen, Germany
 1. **In-situ Transmission Electron Microscopy and Image Processing**<br>
 *Junbeom Park*, Hongyu Sun, Janghyun Jo, Shibabrata Basak, Rüdigar-A. Eichel<br>
 Europe-Korea Conference on Science and Technology 2023 (EKC2023), 2023, Munich, Germany
@@ -148,6 +154,9 @@ Carbon 2018 World Conference, 2018, Madrid, Spain
 
 ## C. Poster presentations at conferences
 ### Period 2020s
+1. **Development of simple image processing for in-situ TEM toward live processing**<br>
+*Junbeom Park*, Hongyu Sun, Janghyun Jo, Eva Jodat, André Karl, Shibabrata Basak, Rüdigar-A.Eichel<br>
+EMC2024, 2024, Copenhagen, Denmark
 1. **Data processing of in-situ TEM toward live processing**<br>
 *Junbeom Park*, Hongyu Sun, Janghyun Jo, Eva Jodat, André Karl, Shibabrata Basak, Rüdigar-A.Eichel<br>
 PICO2024, 2024, Vaals, Netherlands
