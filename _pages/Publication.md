@@ -19,6 +19,26 @@ toc_sticky: true
 1. **Mathematical model for the dynamic behavior of carbon nanotube yarn in analogy with hierarchically structured bio-materials** [[ref]](https://doi.org/10.1016/j.carbon.2019.05.077)<br>
 *Junbeom Park*, Jaegeun Lee, Dong-Myeong Lee, Sung-Hyun Lee, Hyeon Su Jeong, Kun-Hong Lee, Seung Min Kim | Carbon 152 (2019) 151
 
+<ul>
+{% for paper in site.data.Publication_list %}
+  <li>
+    <b>{{ paper.title }}</b> 
+    <a href="https://doi.org/{{ paper.DOI }}"> [ref] </a> <br>
+
+    {% for author in {{ paper.author }} %}
+        {% if {{ author.family == "Park" }} & {{ author.given == "Junbeom" }} %}
+            <i> {{author.given}} {{author.family}} </i> ,
+        {% else %}
+            {{author.given}} {{author.family}} ,
+        {% endif %}
+    {% endfor %}
+
+    | {{ paper.container-title }} {{ paper.volume }} {{ paper.issued.year }} {{ paper.page }} <br>
+  </li>
+{% endfor %}
+</ul>
+
+
 # Journal papers
 ## Period 2020s
 1. **Titanium nitride microelectrode: a new candidate for in-situ electrochemical transmission electron microscopy study** [[ref]](https://doi.org/10.1002/adem.202302146)<br>
