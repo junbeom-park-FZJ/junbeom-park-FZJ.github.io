@@ -19,6 +19,7 @@ toc_sticky: true
 1. **Mathematical model for the dynamic behavior of carbon nanotube yarn in analogy with hierarchically structured bio-materials** [[ref]](https://doi.org/10.1016/j.carbon.2019.05.077)<br>
 *Junbeom Park*, Jaegeun Lee, Dong-Myeong Lee, Sung-Hyun Lee, Hyeon Su Jeong, Kun-Hong Lee, Seung Min Kim | Carbon 152 (2019) 151
 
+<!--->
 <ol>
 {% for paper in site.data.Publication_list %}
   <li>
@@ -26,18 +27,18 @@ toc_sticky: true
     <a href="https://doi.org/{{ paper.DOI }}"> [ref] </a> <br>
 
     {% for author in paper.author %}
-        {% if author.family == "Park" & author.given == "Junbeom" %}
+        {% if author.family == "Park" and author.given == "Junbeom" %}
             <i> {{author.given}} {{author.family}} </i> ,
         {% else %}
             {{author.given}} {{author.family}} ,
         {% endif %}
     {% endfor %}
 
-    | {{ paper.container-title }} {{ paper.volume }} {{ paper.issued.year }} {{ paper.page }} <br>
+    | {{ paper.container-title }} {{ paper.volume }} {{ paper.issued[1].year }} {{ paper.page }} <br>
   </li>
 {% endfor %}
 </ol>
-
+<--->
 
 # Journal papers
 ## Period 2020s

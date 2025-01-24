@@ -70,23 +70,23 @@
   URL: http://link.springer.com/10.1007/s10853-013-7494-3
   volume: '48'
 
-- id: 2015_kimjin-seok_
+- id: 2015_kim_a
   accessed:
     - year: 2022
       month: 1
       day: 14
   author:
-    - family: Kim, Jin-seok
-      given: ''
-    - family: Park, Junbeom
-      given: ''
-    - family: Kim, Seung-Min
-      given: ''
-    - family: Kwac, Lee-Ku
-      given: ''
-    - family: Hwang, Jun Yeon
-      given: ''
-  citation-key: 2015_kimjin-seok_
+    - family: Kim,
+      given: Jin-seok
+    - family: Park
+      given: Junbeom
+    - family: Kim
+      given: Seung-Min
+    - family: Kwac
+      given: Lee-Ku
+    - family: Hwang
+      given: Jun Yeon
+  citation-key: 2015_kim_a
   container-title: Composites Research
   DOI: 10.7234/COMPOSRES.2015.28.4.239
   issue: '4'
