@@ -26,7 +26,7 @@ toc_sticky: true
     <a href="https://doi.org/{{ paper.DOI }}"> [ref] </a> <br>
 
     {% for author in {{ paper.author }} %}
-        {% if {{ author.family == "Park" }} & {{ author.given == "Junbeom" }} %}
+        {% if author.family == "Park" & author.given == "Junbeom" %}
             <i> {{author.given}} {{author.family}} </i> ,
         {% else %}
             {{author.given}} {{author.family}} ,
