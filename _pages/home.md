@@ -16,7 +16,7 @@ excerpt: >
     Forschungszentrum Jülich (FZJ), Germany <br>
     <a href="https://scholar.google.com/citations?user=WXKca60AAAAJ&hl=en">Google scholar</a>
     <a href="https://orcid.org/0000-0003-2548-2985">ORCID</a>
-    <a href="https://www.fz-juelich.de/en/iet/iet-1">IET-1 webpage</a>
+    <a href="https://www.fz-juelich.de/en/iet/iet-1/our-research/focus-topics/microscopy/i-em"> iEM group webpage</a>
   </div>
 feature_row:
   - image_path: /assets/images/CV/Movie_Dendrite_growth.gif
