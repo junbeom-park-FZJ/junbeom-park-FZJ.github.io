@@ -59,10 +59,10 @@ Seung Min Kim, Jae Geun Lee, Dong Myeong Lee, *Jun Beom Park*, Jun Yeon Hwang, H
     ({{paper.type}})  <b>{{ paper.title }}</b> <br>
 
     {% for author in paper.author %}
-        {% if author.name == "Junbeom Park"}
+        {% if author.name == "Junbeom Park" %}
             <i> {{author.name}} </i>,
         {% else %}
-            {{author.name}} ,
+            {{author.name}},
         {% endif %}
     {% endfor %}
 
@@ -78,10 +78,10 @@ Seung Min Kim, Jae Geun Lee, Dong Myeong Lee, *Jun Beom Park*, Jun Yeon Hwang, H
     <b>{{ paper.title }}</b> <br>
 
     {% for author in paper.author %}
-        {% if author.name == "Junbeom Park"}
-            <i> {{author.name}} </i> ,
+        {% if author.name == "Junbeom Park" %}
+            <i> {{author.name}} </i>,
         {% else %}
-            {{author.name}} ,
+            {{author.name}},
         {% endif %}
     {% endfor %}
 
@@ -98,10 +98,10 @@ Seung Min Kim, Jae Geun Lee, Dong Myeong Lee, *Jun Beom Park*, Jun Yeon Hwang, H
     <b>{{ paper.title }}</b> <br>
 
     {% for author in paper.author %}
-        {% if author.name == "Junbeom Park"}
-            <i> {{author.name}} </i> ,
+        {% if author.name == "Junbeom Park" %}
+            <i> {{author.name}} </i>,
         {% else %}
-            {{author.name}} ,
+            {{author.name}},
         {% endif %}
     {% endfor %}
 
