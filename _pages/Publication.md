@@ -7,8 +7,8 @@ toc_sticky: true
 ---
 
 # Summary and Key paper list
-- Total number of papars: 38 (Main author papers: 9)
-- H-index: 20 (from Google scholar, as of 2025.01.05)
+- Total number of papars: 40 (Main author papers: 9)
+- H-index: 20 (from Google scholar, as of 2025.02.18)
 
 1. **Toward Quantitative Electrodeposition via In Situ Liquid Phase Transmission Electron Microscopy: Studying Electroplated Zinc Using Basic Image Processing and 4D STEM** [[ref]](https://doi.org/10.1002/smtd.202400081)<br>
 *Junbeom Park*, Sarmila Dutta, Hongyu Sun, Janghyun Jo, Pranav Karanth, Dieter Weber, Amir H. Tavabi, Yasin Emre Durmus, Krzysztof Dzieciol, Eva Jodat, André Karl, Hans Kungl, Yevheniy Pivak, H. Hugo Pérez Garza, Chandramohan George, Joachim Mayer, Rafal E. Dunin-Borkowski, Shibabrata Basak, Rüdiger-A. Eichel <br> Small Methods (2024) DOI:10.1002/smtd.202400081
