@@ -1,4 +1,87 @@
 
+- id: 2025_chakraborty_
+  author:
+    - family: Chakraborty
+      given: Pritam K.
+    - family: Wolf
+      given: Stephanie E.
+    - family: Ummethala
+      given: Govind
+    - family: Meise
+      given: Ansgar
+    - family: Mehlkoph
+      given: Tobias
+    - family: Park
+      given: Junbeom
+    - family: Heggen
+      given: Marc
+    - family: Tavabi
+      given: Amir H.
+    - family: Vibhu
+      given: Vaibhav
+    - family: Karl
+      given: André
+    - family: Jodat
+      given: Eva
+    - family: (Bert) De Haart
+      given: L.G.J.
+    - family: Dunin-Borowski
+      given: Rafal E.
+    - family: Basak
+      given: Shibabrata
+    - family: Eichel
+      given: Rüdiger-A.
+  citation-key: 2025_chakraborty_
+  container-title: Nano Today
+  container-title-short: Nano Today
+  DOI: 10.1016/j.nantod.2025.102649
+  language: en
+  page: 102649
+  source: DOI.org (Crossref)
+  title: Unveiling the exsolution mechanisms and investigation of the catalytic processes of Sr2FeMo0.65Ni0.35O6-δ using in situ transmission electron microscopy
+  type: article-journal
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S1748013225000210
+  volume: 61
+  year: 2025
+
+- id: 2025_ummethala_
+  author:
+    - family: Ummethala
+      given: Govind
+    - family: Jada
+      given: Ravi
+    - family: Dutta-Gupta
+      given: Shourya
+    - family: Park
+      given: Junbeom
+    - family: Tavabi
+      given: Amir H.
+    - family: Basak
+      given: Shibabrata
+    - family: Hooley
+      given: Robert
+    - family: Sun
+      given: Hongyu
+    - family: Pérez Garza
+      given: H. Hugo
+    - family: Eichel
+      given: Rüdiger-A
+    - family: Dunin-Borkowski
+      given: Rafal E.
+    - family: Malladi
+      given: Sai Rama Krishna
+  citation-key: 2025_ummethala_
+  container-title: Communications Chemistry
+  container-title-short: Commun Chem
+  DOI: 10.1038/s42004-025-01407-3
+  page: 8
+  source: DOI.org (Crossref)
+  title: Real-time visualisation of fast nanoscale processes during liquid reagent mixing by liquid cell transmission electron microscopy
+  type: article-journal
+  URL: https://www.nature.com/articles/s42004-025-01407-3
+  volume: 8
+  year: 2025
+
 - id: 2024_park_a
   author:
     - family: Park

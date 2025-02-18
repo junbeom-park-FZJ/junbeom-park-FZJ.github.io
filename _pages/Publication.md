@@ -52,97 +52,60 @@ Seung Min Kim, Jae Geun Lee, Dong Myeong Lee, *Jun Beom Park*, Jun Yeon Hwang, H
 
 # Presentations
 ## A. Seminars and Lectures
-1. (Seminar) **Strength measurement of Material**<br>
-*Junbeom Park*<br>
-VeKNI (The Korean Scientists and Engineers Association in Germany) Material division Workshop, 2024, Aachen, Germany
-1. (Seminar) **Toward Live processing on in-situ TEM**<br>
-*Junbeom Park*<br>
-VeKNI (The Korean Scientists and Engineers Association in Germany) Region 5 Workshop, 2024, Aachen, Germany
-1. (Lecture) **Semiconductor analysis equipment (Ch.x Advanced STEM, Ch.x in-situ TEM)**<br>
-*Junbeom Park*<br>
-Semiconductor Process and Equipment Contract department, Pusan National University (PNU), 2024, Busan, Korea
-1. (Seminar) **The impact of data processing on material research**<br>
-*Junbeom Park*<br>
-Institute of Advanced Composite Materials, Korea Institute of Science and Technology (KIST) Jeonbuk, 2023, Wanju, Korea
-1. (Seminar) **In-situ transmission electron microscopy**<br>
-*Junbeom Park*<br>
-VeKNI (The Korean Scientists and Engineers Association in Germany) Region 5 Workshop, 2023, Aachen, Germany
-1. (Seminar) **Accurate measurement of linear density via Favimat+**<br>
-*Junbeom Park*<br>
-Institute of Advanced Composite Materials, Korea Institute of Science and Technology (KIST) Jeonbuk, 2017, Wanju, Korea
+
+<ol>
+{% for paper in site.data.Presentation_seminar %}
+  <li>
+    ( {{paper.type}} )  <b>{{ paper.title }}</b> 
+
+    {% for author in paper.author %}
+        {% if author == "Junbeom Park"}
+            <i> {{author}} </i> ,
+        {% else %}
+            {{author}},
+        {% endif %}
+    {% endfor %}
+
+    | {{ paper.location }} ( {{ paper.year }} ) {{ paper.city }} <br>
+  </li>
+{% endfor %}
+</ol>
 
 ## B. Oral presentations at conferences
-1. **Utilizing Data Processing for Enhanced Material Characterization**<br>
-*Junbeom Park*<br>
-VeKNI (The Korean Scientists and Engineers Association in Germany) 2024 conference, 2024, Essen, Germany
-1. **In-situ Transmission Electron Microscopy and Image Processing**<br>
-*Junbeom Park*, Hongyu Sun, Janghyun Jo, Shibabrata Basak, Rüdigar-A. Eichel<br>
-Europe-Korea Conference on Science and Technology 2023 (EKC2023), 2023, Munich, Germany
-1. **FIB-based lamella preparation for in-situ TEM gas experiment**<br>
-*Junbeom Park*, Osmane Camara, Hermann Tempel, Hans Kungl, Shibabrata Basak, Rüdigar-A. Eichel<br>
-16th Multinational Congress on Microscopy, 2022, Brno, Czech Republic
-1. **Theoretical model for structure determination of hierarchically structured carbon nanotube yarn**<br>
-*Junbeom Park*, Jaegeun Lee, Sung-Hyun Lee, Kun-Hong Lee and Seung Min Kim<br>
-Carbon 2018 World Conference, 2018, Madrid, Spain
-1. **Proper linear density measurement method of hierarchical structural carbon nanotube fibers by vibroscope**<br>
-*Junbeom Park*, Sung-Hyun Lee, Jaegeun Lee, Dong-Myeong Lee, Seung Min Kim and Kun-Hong Lee<br>
-2016 spring meeting of the Korean Carbon Society, 2016, Gumi, Korea
+<ol>
+{% for paper in site.data.Presentation_oral %}
+  <li>
+    <b>{{ paper.title }}</b> 
+
+    {% for author in paper.author %}
+        {% if author == "Junbeom Park"}
+            <i> {{author}} </i> ,
+        {% else %}
+            {{author}},
+        {% endif %}
+    {% endfor %}
+
+    | {{ paper.location }} ( {{ paper.year }} ) {{ paper.city }} <br>
+  </li>
+{% endfor %}
+</ol>
 
 ## C. Poster presentations at conferences
-### Period 2020s
-1. **Development of simple image processing for in-situ TEM toward live processing**<br>
-*Junbeom Park*, Hongyu Sun, Janghyun Jo, Eva Jodat, André Karl, Shibabrata Basak, Rüdigar-A.Eichel<br>
-EMC2024, 2024, Copenhagen, Denmark
-1. **Data processing of in-situ TEM toward live processing**<br>
-*Junbeom Park*, Hongyu Sun, Janghyun Jo, Eva Jodat, André Karl, Shibabrata Basak, Rüdigar-A.Eichel<br>
-PICO2024, 2024, Vaals, Netherlands
-1. **Improving the knowledge from in-situ Liquid Phase TEM via image processing**<br>
-*Junbeom Park*, Hongyu Sun, Janghyun Jo, Shibabrata Basak, Rüdigar-A. Eichel<br>
-The 20th International Microscopy Congress (IMC20), 2023, Busan, Korea
-1. **Understanding gas adsorption of PAN-based carbon nanofibers**<br>
-*Junbeom Park*, Ansgar Kretzschmar, Victor Selmert, Osmane Camara, Hans Kungl, Hermann Tempel, Shibabrata Basak, Rüdigar-A. Eichel<br>
-PICO 2022, 2022, Kasteel Vaalsbroek, The Netherlands
 
-### Period 2010s
-1. **Mathematical model for dynamic mechanical behavior of carbon nanotube yarns in analogy with hierarchically structured bio-materials**<br>
-*Junbeom Park*, Jaegeun Lee, Dong-Myeong Lee, Sung-Hyun Lee, Hyeon Su Jeong, Kun-Hong Lee and Seung Min Kim
-2019 spring meeting of the Korean Carbon Society, 2019, Daegu, Korea
-1. **The effect of weak oxidant on the synthesis of carbon nanotube fiber**<br>
-*Junbeom Park*, Hanbin Park, Sung-Hyun Lee and Seung Min Kim<br>
-2018 spring meeting of the Korean Carbon Society, 2018, Gwangju, Korea
-1. **Effect of Water on Synthesis of Carbon Nanotube by Floating Catalyst Method**<br>
-*Junbeom Park*, Hanbin Park, Jaegeun Lee, Dong-Myeong Lee and Seung Min Kim<br>
-The 23rd Nanotube research group, 2018, Muju, Korea
-1. **The effect of spinning rate during the fabrication of carbon nanotube fibers**<br>
-*Junbeom Park*, Jaegeun Lee, Hanbin Park, Dong-Myeong Lee, Kun-Hong Lee and Seung Min Kim<br>
-2017 spring meeting of the Korean Carbon Society, 2017, Changwon, Korea
-1. **Characterization of carbon nanotube fibers from the hierarchical viewpoint**<br>
-*Junbeom Park*, Jaegeun Lee, Dong-Myeong Lee, Hanbin Park, Kun-Hong Lee and Seung Min Kim<br>
-2017 spring meeting of KIChE, 2017, Jeju, Korea
-1. **The effect of carrier gas flow rate on properties of carbon nanotube fibers**<br>
-*Junbeom Park*, Sung-Hyun Lee, Seung Min Kim and Kun-Hong Lee<br>
-China NANO 2015, 2015, Bejing, China
-1. **The effect of carrier gas flow rate on the synthesis of CNT fibers by direct spinning method**<br>
-*Junbeom Park*, Sung-Hyun Lee, Jinseok Kim, Seung Min Kim and Kun-Hong Lee<br>
-2015 spring meeting of the Korean Carbon Society, 2015, Gumi, Korea
-1. **The effect of sulfur and IR heating on the carbon nanotube (CNT) fibers**<br>
-*Junbeom Park*, Sung-Hyun Lee, Jinseok Kim, Seojeong Jeong, Seung Min Kim and Kun-Hong Lee<br>
-2014 fall meeting of the Korean Carbon Society, 2014, Jeonju, Korea
-1. **The effect of thiophene concentration during synthesizing the carbon nanotube (CNT) fibers**<br>
-*Junbeom Park*, Sung-Hyun Lee, Seojeong Jeong, Jinseok Kim, Seung Min Kim and Kun-Hong Lee<br>
-2014 Fall meeting of KIChE, 2014, Daejeon, Korea
-1. **Surface analysis of carbon nanotube (CNT) yarns after acid treatment**<br>
-*Junbeom Park*, Sung-Hyun Lee and Kun-Hong Lee<br>
-2013 fall meeting of the Korean Carbon Society, 2013, Jeonju, Korea
-1. **Acid treatment on synthesized carbon nanotube yarns from methane**<br>
-*Junbeom Park*, Sung-Hyun Lee and Kun-Hong Lee<br>
-2013 Fall meeting of KIChE, 2013, Daegu, Korea
-1. **Dipping carbon nanotube (CNT) yarns in various acids for chemical treatment**<br>
-*Junbeom Park*, Sung-Hyun Lee and Kun-Hong Lee<br>
-2013 Spring meeting of the Korean Carbon Society, 2013, Seoul, Korea
-1. **Changes of carbon nanotube (CNT) yarns surface after acid treatment**<br>
-*Junbeom Park*, Sung-Hyun Lee and Kun-Hong Lee<br>
-2013 Spring conference of the Korean Fiber Society, 2013, Daegu, Korea
-1. **Purification of carbon nanotube (CNT) fibers with acid treatment**<br>
-*Junbeom Park*, Sung-Hyun Lee and Kun-Hong Lee<br>
-2013 KIChE winter season workshop, 2013, Muju, Korea
+<ol>
+{% for paper in site.data.Presentation_poster %}
+  <li>
+    <b>{{ paper.title }}</b> 
+
+    {% for author in paper.author %}
+        {% if author == "Junbeom Park"}
+            <i> {{author}} </i> ,
+        {% else %}
+            {{author}},
+        {% endif %}
+    {% endfor %}
+
+    | {{ paper.location }} ( {{ paper.year }} ) {{ paper.city }} <br>
+  </li>
+{% endfor %}
+</ol>
