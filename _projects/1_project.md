@@ -5,6 +5,7 @@ description: by direct spinning method
 img: assets/img/projects/Synthesis_of_CNT_yarn.gif
 importance: 3
 category: Material_Fabrication
+tags: CNT Materials 
 ---
 
 Carbon nanotube (CNT) fiber is fabricated through direct spinning method.
