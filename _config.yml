@@ -168,7 +168,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_data", "_projects", "_posts"]
+include: ["_pages", "_data", "_projects"]
 exclude:
   - bin/
   - CONTRIBUTING.md

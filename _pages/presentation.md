@@ -30,7 +30,7 @@ nav_order: 5
 </details>
 
 <details open>
-  <summary><b> B. Oral presentations at conferences </b></sumary>
+  <summary><b> B. Oral presentations at conferences </b></summary>
   <ol>
   {% for paper in site.data.presentation_oral %}
     <li>
