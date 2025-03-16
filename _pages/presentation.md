@@ -27,7 +27,7 @@ nav_order: 3
     </li>
   {% endfor %}
   </ol>
-</detail>
+</details>
 
 <details open>
   <summary><b> B. Oral presentations at conferences </b></sumary>
@@ -48,7 +48,7 @@ nav_order: 3
     </li>
   {% endfor %}
   </ol>
-</detail>
+</details>
 
 
 <details>
