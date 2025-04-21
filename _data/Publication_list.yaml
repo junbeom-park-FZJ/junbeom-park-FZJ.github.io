@@ -1,0 +1,1268 @@
+
+- id: 2025_chakraborty_
+  author:
+    - family: Chakraborty
+      given: Pritam K.
+    - family: Wolf
+      given: Stephanie E.
+    - family: Ummethala
+      given: Govind
+    - family: Meise
+      given: Ansgar
+    - family: Mehlkoph
+      given: Tobias
+    - family: Park
+      given: Junbeom
+    - family: Heggen
+      given: Marc
+    - family: Tavabi
+      given: Amir H.
+    - family: Vibhu
+      given: Vaibhav
+    - family: Karl
+      given: André
+    - family: Jodat
+      given: Eva
+    - family: (Bert) De Haart
+      given: L.G.J.
+    - family: Dunin-Borowski
+      given: Rafal E.
+    - family: Basak
+      given: Shibabrata
+    - family: Eichel
+      given: Rüdiger-A.
+  citation-key: 2025_chakraborty_
+  container-title: Nano Today
+  container-title-short: Nano Today
+  DOI: 10.1016/j.nantod.2025.102649
+  language: en
+  page: 102649
+  source: DOI.org (Crossref)
+  title: Unveiling the exsolution mechanisms and investigation of the catalytic processes of Sr2FeMo0.65Ni0.35O6-δ using in situ transmission electron microscopy
+  type: article-journal
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S1748013225000210
+  volume: 61
+  year: 2025
+
+- id: 2025_ummethala_
+  author:
+    - family: Ummethala
+      given: Govind
+    - family: Jada
+      given: Ravi
+    - family: Dutta-Gupta
+      given: Shourya
+    - family: Park
+      given: Junbeom
+    - family: Tavabi
+      given: Amir H.
+    - family: Basak
+      given: Shibabrata
+    - family: Hooley
+      given: Robert
+    - family: Sun
+      given: Hongyu
+    - family: Pérez Garza
+      given: H. Hugo
+    - family: Eichel
+      given: Rüdiger-A
+    - family: Dunin-Borkowski
+      given: Rafal E.
+    - family: Malladi
+      given: Sai Rama Krishna
+  citation-key: 2025_ummethala_
+  container-title: Communications Chemistry
+  container-title-short: Commun Chem
+  DOI: 10.1038/s42004-025-01407-3
+  page: 8
+  source: DOI.org (Crossref)
+  title: Real-time visualisation of fast nanoscale processes during liquid reagent mixing by liquid cell transmission electron microscopy
+  type: article-journal
+  URL: https://www.nature.com/articles/s42004-025-01407-3
+  volume: 8
+  year: 2025
+
+- id: 2024_park_a
+  author:
+    - family: Park
+      given: Junbeom
+    - family: Dutta
+      given: Sarmila
+    - family: Sun
+      given: Hongyu
+    - family: Jo
+      given: Janghyun
+    - family: Karanth
+      given: Pranav
+    - family: Weber
+      given: Dieter
+    - family: Tavabi
+      given: Amir H.
+    - family: Durmus
+      given: Yasin Emre
+    - family: Dzieciol
+      given: Krzysztof
+    - family: Jodat
+      given: Eva
+    - family: Karl
+      given: André
+    - family: Kungl
+      given: Hans
+    - family: Pivak
+      given: Yevheniy
+    - family: Garza
+      given: H. Hugo Pérez
+    - family: George
+      given: Chandramohan
+    - family: Mayer
+      given: Joachim
+    - family: Dunin‐Borkowski
+      given: Rafal E.
+    - family: Basak
+      given: Shibabrata
+    - family: Eichel
+      given: Rüdiger‐A
+  citation-key: 2024_park_a
+  container-title: Small Methods
+  container-title-short: Small Methods
+  DOI: 10.1002/smtd.202400081
+  page: 2400081
+  source: DOI.org (Crossref)
+  title: Toward Quantitative Electrodeposition via In Situ Liquid Phase Transmission Electron Microscopy':' Studying Electroplated Zinc Using Basic Image Processing and 4D STEM
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/10.1002/smtd.202400081
+  volume: ''
+  year: 2024
+
+- id: 2024_park_
+  author:
+    - family: Park
+      given: Junbeom
+    - family: Cheng
+      given: Ningyan
+    - family: Ge
+      given: Binghui
+    - family: Jodat
+      given: Eva
+    - family: Karl
+      given: André
+    - family: Pivak
+      given: Yevheniy
+    - family: Sun
+      given: Hongyu
+    - family: Garza
+      given: Héctor Hugo Pérez
+    - family: Basak
+      given: Shibabrata
+    - family: Eichel
+      given: Rüdiger‐A.
+  citation-key: 2024_park_
+  container-title: Advanced Engineering Materials
+  container-title-short: Adv Eng Mater
+  DOI: 10.1002/adem.202302146
+  page: 2302146
+  source: DOI.org (Crossref)
+  title: Titanium Nitride Microelectrode':' A New Candidate for In Situ Electrochemical Transmission Electron Microscopy Study
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/10.1002/adem.202302146
+  volume: 26
+  year: 2024
+
+- id: 2023_pivak_
+  author:
+    - family: Pivak
+      given: Yevheniy
+    - family: Park
+      given: Junbeom
+    - family: Basak
+      given: Shibabrata
+    - family: Eichel
+      given: Rüdiger-Albert
+    - family: Beker
+      given: Anne
+    - family: Rozene
+      given: Alejandro
+    - family: Pérez Garza
+      given: Héctor Hugo
+    - family: Sun
+      given: Hongyu
+  citation-key: 2023_pivak_
+  container-title: Microscopy
+  DOI: 10.1093/jmicro/dfad023
+  page: 520
+  source: DOI.org (Crossref)
+  title: High-resolution and analytical electron microscopy in a liquid flow cell via gas purging
+  type: article-journal
+  URL: https://academic.oup.com/jmicro/advance-article/doi/10.1093/jmicro/dfad023/7159178
+  volume: 72
+  year: 2023
+
+- id: 2023_camara_
+  author:
+    - family: Camara
+      given: Osmane
+    - family: Xu
+      given: Qi
+    - family: Park
+      given: Junbeom
+    - family: Yu
+      given: Shicheng
+    - family: Lu
+      given: Xin
+    - family: Dzieciol
+      given: Krzysztof
+    - family: Schierholz
+      given: Roland
+    - family: Tempel
+      given: Hermann
+    - family: Kungl
+      given: Hans
+    - family: George
+      given: Chandramohan
+    - family: Mayer
+      given: Joachim
+    - family: Basak
+      given: Shibabrata
+    - family: Eichel
+      given: Rüdiger-A.
+  citation-key: 2023_camara_
+  container-title: Crystal Growth & Design
+  container-title-short: Crystal Growth & Design
+  DOI: 10.1021/acs.cgd.2c01098
+  page: 1522
+  publisher: American Chemical Society
+  source: ACS Publications
+  title: Effect of Low Environmental Pressure on Sintering Behavior of NASICON-Type Li1.3Al0.3Ti1.7(PO4)3 Solid Electrolytes':' An In Situ ESEM Study
+  type: article-journal
+  URL: https://doi.org/10.1021/acs.cgd.2c01098
+  volume: 23
+  year: 2023
+
+- id: 2023_basak_
+  author:
+    - family: Basak
+      given: Shibarata
+    - family: Park
+      given: Junbeom
+    - family: Jo
+      given: Janghyun
+    - family: Camara
+      given: Osmane
+    - family: Tavabi
+      given: Amir H.
+    - family: Tempel
+      given: Hermann
+    - family: Kungl
+      given: Hans
+    - family: George
+      given: Chandramohan
+    - family: Dunin-Borkowski
+      given: Rafal E.
+    - family: Mayer
+      given: Joachim
+    - family: Eichel
+      given: Rüdiger-A.
+  citation-key: 2023_basak_
+  container-title: Journal of Visualized Experiments
+  container-title-short: JoVE
+  DOI: 10.3791/64316
+  page: 64316
+  source: DOI.org (Crossref)
+  title: Screening of Coatings for an All-Solid-State Battery using In Situ Transmission Electron Microscopy
+  type: article-journal
+  URL: https://www.jove.com/t/64316/screening-coatings-for-an-all-solid-state-battery-using-situ
+  volume: ''
+  year: 2023
+
+- id: 2022_xu_
+  author:
+    - family: Xu
+      given: Qi
+    - family: Liu
+      given: Zigeng
+    - family: Windmüller
+      given: Anna
+    - family: Basak
+      given: Shibabrata
+    - family: Park
+      given: Junbeom
+    - family: Dzieciol
+      given: Krzysztof
+    - family: Tsai
+      given: Chih-Long
+    - family: Yu
+      given: Shicheng
+    - family: Tempel
+      given: Hermann
+    - family: Kungl
+      given: Hans
+    - family: Eichel
+      given: Rüdiger-A.
+  citation-key: 2022_xu_
+  container-title: Small
+  DOI: 10.1002/smll.202200266
+  page: 2200266
+  source: Wiley Online Library
+  title: Active Interphase Enables Stable Performance for an All-Phosphate-Based Composite Cathode in an All-Solid-State Battery
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.202200266
+  volume: 18
+  year: 2022
+
+- id: 2021_park_
+  author:
+    - family: Park
+      given: Junbeom
+    - family: Kretzschmar
+      given: Ansgar
+    - family: Selmert
+      given: Victor
+    - family: Camara
+      given: Osmane
+    - family: Kungl
+      given: Hans
+    - family: Tempel
+      given: Hermann
+    - family: Basak
+      given: Shibabrata
+    - family: Eichel
+      given: Rüdiger A.
+  citation-key: 2021_park_
+  container-title: ACS Applied Materials & Interfaces
+  container-title-short: ACS Appl. Mater. Interfaces
+  DOI: 10.1021/acsami.1c13541
+  page: 46665
+  source: DOI.org (Crossref)
+  title: Structural Study of Polyacrylonitrile-Based Carbon Nanofibers for Understanding Gas Adsorption
+  type: article-journal
+  URL: https://pubs.acs.org/doi/10.1021/acsami.1c13541
+  volume: 13
+  year: 2021
+
+- id: 2021_lee_d
+  author:
+    - family: Lee
+      given: Dong-Myeong
+    - family: Park
+      given: Junbeom
+    - family: Lee
+      given: Jaegeun
+    - family: Lee
+      given: Sung-Hyun
+    - family: Kim
+      given: Shin-Hyun
+    - family: Kim
+      given: Seung Min
+    - family: Jeong
+      given: Hyeon Su
+  citation-key: 2021_lee_d
+  container-title: Carbon
+  container-title-short: Carbon
+  DOI: 10.1016/j.carbon.2020.10.068
+  page: 733
+  source: DOI.org (Crossref)
+  title: Improving mechanical and physical properties of ultra-thick carbon nanotube fiber by fast swelling and stretching process
+  type: article-journal
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S0008622320310381
+  volume: 172
+  year: 2021
+
+- id: 2021_lee_a
+  author:
+    - family: Lee
+      given: Sung-Hyun
+    - family: Park
+      given: Junbeom
+    - family: Moon
+      given: Sook Young
+    - family: Lee
+      given: Sei Young
+    - family: Kim
+      given: Seung Min
+  citation-key: 2021_lee_a
+  container-title: ACS Applied Nano Materials
+  container-title-short: ACS Appl. Nano Mater.
+  DOI: 10.1021/acsanm.1c00248
+  page: 3833
+  source: DOI.org (Crossref)
+  title: Strong and Highly Conductive Carbon Nanotube Fibers as Conducting Wires for Wearable Electronics
+  type: article-journal
+  URL: https://pubs.acs.org/doi/10.1021/acsanm.1c00248
+  volume: 4
+  year: 2021
+
+- id: 2021_lee_
+  author:
+    - family: Lee
+      given: Sung-Hyun
+    - family: Park
+      given: Junbeom
+    - family: Park
+      given: Ji Hong
+    - family: Lee
+      given: Dong-Myeong
+    - family: Lee
+      given: Anna
+    - family: Moon
+      given: Sook Young
+    - family: Lee
+      given: Sei Young
+    - family: Jeong
+      given: Hyeon Su
+    - family: Kim
+      given: Seung Min
+  citation-key: 2021_lee_
+  container-title: Carbon
+  container-title-short: Carbon
+  DOI: 10.1016/j.carbon.2020.11.065
+  page: 901
+  source: DOI.org (Crossref)
+  title: Deep-injection floating-catalyst chemical vapor deposition to continuously synthesize carbon nanotubes with high aspect ratio and high crystallinity
+  type: article-journal
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S0008622320311441
+  volume: 173
+  year: 2021
+
+- id: 2021_kim_
+  author:
+    - family: Kim
+      given: Young-Kwan
+    - family: Kim
+      given: Young-Jin
+    - family: Park
+      given: Junbeom
+    - family: Han
+      given: Sang Woo
+    - family: Kim
+      given: Seung Min
+  citation-key: 2021_kim_
+  container-title: Carbon
+  container-title-short: Carbon
+  DOI: 10.1016/j.carbon.2020.11.026
+  page: 376
+  source: DOI.org (Crossref)
+  title: Purification effect of carbon nanotube fibers on their surface modification to develop a high-performance and multifunctional nanocomposite fiber
+  type: article-journal
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S0008622320311027
+  volume: 173
+  year: 2021
+
+- id: 2020_park_
+  author:
+    - family: Park
+      given: Ji Hong
+    - family: Park
+      given: Junbeom
+    - family: Lee
+      given: Sung-Hyun
+    - family: Kim
+      given: Seung Min
+  citation-key: 2020_park_
+  container-title: Carbon Letters
+  container-title-short: Carbon Lett.
+  DOI: 10.1007/s42823-020-00131-3
+  page: 613
+  source: DOI.org (Crossref)
+  title: Continuous synthesis of high-crystalline carbon nanotubes by controlling the configuration of the injection part in the floating catalyst chemical vapor deposition process
+  type: article-journal
+  URL: http://link.springer.com/10.1007/s42823-020-00131-3
+  volume: 30
+  year: 2022
+
+- id: 2020_jo_
+  author:
+    - family: Jo
+      given: Eunmi
+    - family: Park
+      given: Jae-Ho
+    - family: Park
+      given: Junbeom
+    - family: Hwang
+      given: Jieun
+    - family: Chung
+      given: Kyung Yoon
+    - family: Nam
+      given: Kyung-Wan
+    - family: Kim
+      given: Seung Min
+    - family: Chang
+      given: Wonyoung
+  citation-key: 2020_jo_
+  container-title: Nano Energy
+  container-title-short: Nano Energy
+  DOI: 10.1016/j.nanoen.2020.105367
+  page: 105367
+  source: DOI.org (Crossref)
+  title: Different thermal degradation mechanisms':' Role of aluminum in Ni-rich layered cathode materials
+  type: article-journal
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S2211285520309447
+  volume: 78
+  year: 2020
+
+- id: 2019_park_
+  author:
+    - family: Park
+      given: Junbeom
+    - family: Lee
+      given: Jaegeun
+    - family: Lee
+      given: Dong-Myeong
+    - family: Lee
+      given: Sung-Hyun
+    - family: Jeong
+      given: Hyeon Su
+    - family: Lee
+      given: Kun-Hong
+    - family: Kim
+      given: Seung Min
+  citation-key: 2019_park_
+  container-title: Carbon
+  container-title-short: Carbon
+  DOI: 10.1016/j.carbon.2019.05.077
+  page: 151
+  source: DOI.org (Crossref)
+  title: Mathematical model for the dynamic mechanical behavior of carbon nanotube yarn in analogy with hierarchically structured bio-materials
+  type: article-journal
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S0008622319305500
+  volume: 152
+  year: 2019
+
+- id: 2019_lee_a
+  author:
+    - family: Lee
+      given: Cheol-Hun
+    - family: Lee
+      given: Jaegeun
+    - family: Park
+      given: Junbeom
+    - family: Lee
+      given: Eunyoung
+    - family: Kim
+      given: Seung Min
+    - family: Lee
+      given: Kun-Hong
+  citation-key: 2019_lee_a
+  container-title: Carbon
+  container-title-short: Carbon
+  DOI: 10.1016/j.carbon.2019.06.030
+  page: 482
+  source: DOI.org (Crossref)
+  title: Rationally designed catalyst layers toward “immortal” growth of carbon nanotube forests':' Fe-ion implanted substrates
+  type: article-journal
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S0008622319305925
+  volume: 152
+  year: 2019
+
+- id: 2019_lee_
+  author:
+    - family: Lee
+      given: Jaegeun
+    - family: Lee
+      given: Dong-Myeong
+    - family: Jung
+      given: Yeonsu
+    - family: Park
+      given: Junbeom
+    - family: Lee
+      given: Hun Su
+    - family: Kim
+      given: Young-Kwan
+    - family: Park
+      given: Chong Rae
+    - family: Jeong
+      given: Hyeon Su
+    - family: Kim
+      given: Seung Min
+  citation-key: 2019_lee_
+  container-title: Nature Communications
+  container-title-short: Nat Commun
+  DOI: 10.1038/s41467-019-10998-0
+  page: 2962
+  source: DOI.org (Crossref)
+  title: Direct spinning and densification method for high-performance carbon nanotube fibers
+  type: article-journal
+  URL: http://www.nature.com/articles/s41467-019-10998-0
+  volume: 10
+  year: 2019
+
+- id: 2019_kim_b
+  author:
+    - family: Kim
+      given: Young-Jin
+    - family: Park
+      given: Junbeom
+    - family: Jeong
+      given: Hyeon Su
+    - family: Park
+      given: Min
+    - family: Baik
+      given: Seulki
+    - family: Lee
+      given: Dong Su
+    - family: Rho
+      given: Heesuk
+    - family: Kim
+      given: Hyungjun
+    - family: Lee
+      given: Joong Hee
+    - family: Kim
+      given: Seung-Min
+    - family: Kim
+      given: Young-Kwan
+  citation-key: 2019_kim_b
+  container-title: Nanoscale
+  container-title-short: Nanoscale
+  DOI: 10.1039/C8NR10446H
+  page: 5295
+  source: DOI.org (Crossref)
+  title: A seed-mediated growth of gold nanoparticles inside carbon nanotube fibers for fabrication of multifunctional nanohybrid fibers with enhanced mechanical and electrical properties
+  type: article-journal
+  URL: http://xlink.rsc.org/?DOI=C8NR10446H
+  volume: 11
+  year: 2019
+
+- id: 2019_kim_a
+  author:
+    - family: Kim
+      given: Young-Jin
+    - family: Park
+      given: Junbeom
+    - family: Kim
+      given: Hyungjun
+    - family: Jeong
+      given: Hyeon Su
+    - family: Lee
+      given: Joong Hee
+    - family: Kim
+      given: Seung Min
+    - family: Kim
+      given: Young-Kwan
+  citation-key: 2019_kim_a
+  container-title: 'Composites Part B: Engineering'
+  container-title-short: 'Composites Part B: Engineering'
+  DOI: 10.1016/j.compositesb.2018.12.132
+  page: 431
+  source: DOI.org (Crossref)
+  title: Simultaneous enhancement of mechanical and electrical properties of carbon nanotube fiber by infiltration and subsequent carbonization of resorcinol-formaldehyde resin
+  type: article-journal
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S1359836818320985
+  volume: 163
+  year: 2019
+
+- id: 2019_kim_
+  author:
+    - family: Kim
+      given: Young-Jin
+    - family: Park
+      given: Junbeom
+    - family: Yang
+      given: Cheol-Min
+    - family: Jeong
+      given: Hyeon Su
+    - family: Kim
+      given: Seung Min
+    - family: Han
+      given: Sang Woo
+    - family: Yang
+      given: Beomjoo
+    - family: Kim
+      given: Young-Kwan
+  citation-key: 2019_kim_
+  container-title: Composites Science and Technology
+  container-title-short: Composites Science and Technology
+  DOI: 10.1016/j.compscitech.2019.107680
+  page: 107680
+  source: DOI.org (Crossref)
+  title: Bio-inspired incorporation of functionalized graphene oxide into carbon nanotube fibers for their efficient mechanical reinforcement
+  type: article-journal
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S0266353819301526
+  volume: 181
+  year: 2019
+
+- id: 2019_choi_
+  author:
+    - family: Choi
+      given: Gwang Jin
+    - family: Gwon
+      given: Tae Mok
+    - family: Kim
+      given: Doo Hee
+    - family: Park
+      given: Junbeom
+    - family: Kim
+      given: Seung Min
+    - family: Oh
+      given: Seung Ha
+    - family: Lim
+      given: Yoonseob
+    - family: Jun
+      given: Sang Beom
+    - family: Kim
+      given: Sung June
+  citation-key: 2019_choi_
+  container-title: Biomedical Microdevices
+  container-title-short: Biomed Microdevices
+  DOI: 10.1007/s10544-019-0384-y
+  page: 27
+  source: DOI.org (Crossref)
+  title: CNT bundle-based thin intracochlear electrode array
+  type: article-journal
+  URL: http://link.springer.com/10.1007/s10544-019-0384-y
+  volume: 21
+  year: 2019
+
+- id: 2018_rho_
+  author:
+    - family: Rho
+      given: Hokyun
+    - family: Park
+      given: Min
+    - family: Park
+      given: Mina
+    - family: Park
+      given: Junbeom
+    - family: Han
+      given: Jiyoon
+    - family: Lee
+      given: Aram
+    - family: Bae
+      given: Sukang
+    - family: Kim
+      given: Tae-Wook
+    - family: Ha
+      given: Jun-Seok
+    - family: Kim
+      given: Seung Min
+    - family: Lee
+      given: Dong Su
+    - family: Lee
+      given: Sang Hyun
+  citation-key: 2018_rho_
+  container-title: NPG Asia Materials
+  container-title-short: NPG Asia Mater
+  DOI: 10.1038/s41427-018-0028-3
+  page: 146
+  source: DOI.org (Crossref)
+  title: Metal nanofibrils embedded in long free-standing carbon nanotube fibers with a high critical current density
+  type: article-journal
+  URL: http://www.nature.com/articles/s41427-018-0028-3
+  volume: 10
+  year: 2018
+
+- id: 2018_lee_a
+  author:
+    - family: Lee
+      given: Sung-Hyun
+    - family: Kim
+      given: Hye-Rim
+    - family: Lee
+      given: Haemin
+    - family: Lee
+      given: Jinwoo
+    - family: Lee
+      given: Cheol-Hun
+    - family: Lee
+      given: Jaegeun
+    - family: Park
+      given: Junbeom
+    - family: Lee
+      given: Kun-Hong
+  citation-key: 2018_lee_a
+  container-title: Chemical Engineering Science
+  container-title-short: Chemical Engineering Science
+  DOI: 10.1016/j.ces.2018.07.041
+  page: 655
+  source: DOI.org (Crossref)
+  title: Synthesis mechanism of carbon nanotube fibers using reactor design principles
+  type: article-journal
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S0009250918305335
+  volume: 192
+  year: 2018
+
+- id: 2018_lee_
+  author:
+    - family: Lee
+      given: Yu Ri
+    - family: Park
+      given: Junbeom
+    - family: Jeong
+      given: Youngjin
+    - family: Park
+      given: Jong S.
+  citation-key: 2018_lee_
+  container-title: Fibers and Polymers
+  container-title-short: Fibers Polym
+  DOI: 10.1007/s12221-018-8140-0
+  page: 2478
+  source: DOI.org (Crossref)
+  title: Improved Mechanical and Electrical Properties of Carbon Nanotube Yarns by Wet Impregnation and Multi-ply Twisting
+  type: article-journal
+  URL: http://link.springer.com/10.1007/s12221-018-8140-0
+  volume: 19
+  year: 2018
+
+- id: 2018_cho_a
+  author:
+    - family: Cho
+      given: Hyunjung
+    - family: Lee
+      given: Haemin
+    - family: Oh
+      given: Eugene
+    - family: Lee
+      given: Sung-Hyun
+    - family: Park
+      given: Junbeom
+    - family: Park
+      given: Hyun Jin
+    - family: Yoon
+      given: Suk-Bae
+    - family: Lee
+      given: Cheol-Hun
+    - family: Kwak
+      given: Gye-Hoon
+    - family: Lee
+      given: Won Jae
+    - family: Kim
+      given: Juhan
+    - family: Kim
+      given: Ji Eun
+    - family: Lee
+      given: Kun-Hong
+  citation-key: 2018_cho_a
+  container-title: Carbon
+  container-title-short: Carbon
+  DOI: 10.1016/j.carbon.2018.04.071
+  page: 409
+  source: DOI.org (Crossref)
+  title: Hierarchical structure of carbon nanotube fibers, and the change of structure during densification by wet stretching
+  type: article-journal
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S0008622318304329
+  volume: 136
+  year: 2018
+
+- id: 2018_cho_
+  author:
+    - family: Cho
+      given: Hyunjung
+    - family: Lee
+      given: Jinwoo
+    - family: Lee
+      given: Haemin
+    - family: Lee
+      given: Sung-Hyun
+    - family: Park
+      given: Junbeom
+    - family: Lee
+      given: Cheol-Hun
+    - family: Lee
+      given: Kun-Hong
+  citation-key: 2018_cho_
+  container-title: Materials
+  container-title-short: Materials
+  DOI: 10.3390/ma11112170
+  license: All rights reserved
+  page: 2170
+  source: DOI.org (Crossref)
+  title: Effects of Wet-Pressing and Cross-Linking on the Tensile Properties of Carbon Nanotube Fibers
+  type: article-journal
+  URL: http://www.mdpi.com/1996-1944/11/11/2170
+  volume: 11
+  year: 2018
+
+- id: 2017_park_
+  author:
+    - family: Park
+      given: Junbeom
+    - family: Lee
+      given: Sung-Hyun
+    - family: Lee
+      given: Jaegeun
+    - family: Lee
+      given: Dong-Myeong
+    - family: Yu
+      given: Hayoung
+    - family: Jeong
+      given: Hyeon Su
+    - family: Kim
+      given: Seung Min
+    - family: Lee
+      given: Kun-Hong
+  citation-key: 2017_park_
+  container-title: RSC Advances
+  container-title-short: RSC Adv.
+  DOI: 10.1039/C6RA26607J
+  page: 8575
+  source: DOI.org (Crossref)
+  title: Accurate measurement of specific tensile strength of carbon nanotube fibers with hierarchical structures by vibroscopic method
+  type: article-journal
+  URL: http://xlink.rsc.org/?DOI=C6RA26607J
+  volume: 7
+  year: 2017
+
+- id: 2017_nam_
+  author:
+    - family: Nam
+      given: Ki-Ho
+    - family: Im
+      given: Yong-O.
+    - family: Park
+      given: Hye Jin
+    - family: Lee
+      given: Haena
+    - family: Park
+      given: Junbeom
+    - family: Jeong
+      given: Sunho
+    - family: Kim
+      given: Seung Min
+    - family: You
+      given: Nam-Ho
+    - family: Choi
+      given: Jae-Hak
+    - family: Han
+      given: Haksoo
+    - family: Lee
+      given: Kun-Hong
+    - family: Ku
+      given: Bon-Cheol
+  citation-key: 2017_nam_
+  container-title: Composites Science and Technology
+  container-title-short: Composites Science and Technology
+  DOI: 10.1016/j.compscitech.2017.10.014
+  license: All rights reserved
+  page: 136
+  source: DOI.org (Crossref)
+  title: Photoacoustic effect on the electrical and mechanical properties of polymer-infiltrated carbon nanotube fiber/graphene oxide composites
+  type: article-journal
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S0266353817320997
+  volume: 153
+  year: 2017
+
+- id: 2017_lee_
+  author:
+    - family: Lee
+      given: Sung-Hyun
+    - family: Kim
+      given: Hye-Rim
+    - family: Lee
+      given: Taeseon
+    - family: Lee
+      given: Haemin
+    - family: Lee
+      given: Jinwoo
+    - family: Lee
+      given: Jaegeun
+    - family: Park
+      given: Junbeom
+    - family: Lee
+      given: Kun-Hong
+  citation-key: 2017_lee_
+  container-title: Carbon
+  container-title-short: Carbon
+  DOI: 10.1016/j.carbon.2017.08.064
+  page: 219
+  source: DOI.org (Crossref)
+  title: Synthesis of carbon nanotube fibers from carbon precursors with low decomposition temperatures using a direct spinning process
+  type: article-journal
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S0008622317308539
+  volume: 124
+  year: 2017
+
+- id: 2017_im_
+  author:
+    - family: Im
+      given: Yong-O
+    - family: Lee
+      given: Sung-Hyun
+    - family: Kim
+      given: Teawon
+    - family: Park
+      given: Junbeom
+    - family: Lee
+      given: Jaegeun
+    - family: Lee
+      given: Kun-Hong
+  citation-key: 2017_im_
+  container-title: Applied Surface Science
+  container-title-short: Applied Surface Science
+  DOI: 10.1016/j.apsusc.2016.09.060
+  page: 342
+  source: DOI.org (Crossref)
+  title: Utilization of carboxylic functional groups generated during purification of carbon nanotube fiber for its strength improvement
+  type: article-journal
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S0169433216319298
+  volume: 392
+  year: 2017
+
+- id: 2016_lee_b
+  author:
+    - family: Lee
+      given: Jaegeun
+    - family: Kim
+      given: Teawon
+    - family: Jung
+      given: Yeonsu
+    - family: Jung
+      given: Kihoon
+    - family: Park
+      given: Junbeom
+    - family: Lee
+      given: Dong-Myeong
+    - family: Jeong
+      given: Hyeon Su
+    - family: Hwang
+      given: Jun Yeon
+    - family: Park
+      given: Chong Rae
+    - family: Lee
+      given: Kun-Hong
+    - family: Kim
+      given: Seung Min
+  citation-key: 2016_lee_b
+  container-title: Nanoscale
+  container-title-short: Nanoscale
+  DOI: 10.1039/C6NR06479E
+  page: 18972
+  source: DOI.org (Crossref)
+  title: High-strength carbon nanotube/carbon composite fibers via chemical vapor infiltration
+  type: article-journal
+  URL: http://xlink.rsc.org/?DOI=C6NR06479E
+  volume: 8
+  year: 2016
+
+- id: 2016_lee_a
+  author:
+    - family: Lee
+      given: Jaegeun
+    - family: Lee
+      given: Cheol Hun
+    - family: Park
+      given: Junbeom
+    - family: Lee
+      given: Dong-Myeong
+    - family: Lee
+      given: Kun-Hong
+    - family: Jo
+      given: Sae Byeok
+    - family: Cho
+      given: Kilwon
+    - family: Maruyama
+      given: Benji
+    - family: Kim
+      given: Seung Min
+  citation-key: 2016_lee_a
+  container-title: RSC Advances
+  container-title-short: RSC Adv.
+  DOI: 10.1039/C6RA12250G
+  page: 68424
+  source: DOI.org (Crossref)
+  title: Effects of a SiO2 sub-supporting layer on the structure of a Al2O3 supporting layer, formation of Fe catalyst particles, and growth of carbon nanotube forests
+  type: article-journal
+  URL: http://xlink.rsc.org/?DOI=C6RA12250G
+  volume: 6
+  year: 2016
+
+- id: 2016_lee_
+  author:
+    - family: Lee
+      given: Sung-Hyun
+    - family: Park
+      given: Junbeom
+    - family: Kim
+      given: Hye-Rim
+    - family: Lee
+      given: Taeseon
+    - family: Lee
+      given: Jaegeun
+    - family: Im
+      given: Yong-O.
+    - family: Lee
+      given: Cheol-Hun
+    - family: Cho
+      given: Hyunjung
+    - family: Lee
+      given: Hyeseon
+    - family: Jun
+      given: Chi-Hyuck
+    - family: Ahn
+      given: Yu-Chan
+    - family: Lee
+      given: In-Beum
+    - family: Lee
+      given: Kun-Hong
+  citation-key: 2016_lee_
+  container-title: Carbon
+  container-title-short: Carbon
+  DOI: 10.1016/j.carbon.2016.01.034
+  page: 647
+  source: DOI.org (Crossref)
+  title: Synthesis of carbon nanotube fibers using the direct spinning process based on Design of Experiment (DOE)
+  type: article-journal
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S0008622316300343
+  volume: 100
+  year: 2016
+
+- id: 2016_kim_
+  author:
+    - family: Kim
+      given: HeeJin
+    - family: Lee
+      given: Jaegeun
+    - family: Park
+      given: Byungrak
+    - family: Sa
+      given: Jeong-Hoon
+    - family: Jung
+      given: Alum
+    - family: Kim
+      given: Teawon
+    - family: Park
+      given: Junbeom
+    - family: Hwang
+      given: Woonbong
+    - family: Lee
+      given: Kun-Hong
+  citation-key: 2016_kim_
+  container-title: Korean Journal of Chemical Engineering
+  container-title-short: Korean J. Chem. Eng.
+  DOI: 10.1007/s11814-015-0140-9
+  page: 299
+  source: DOI.org (Crossref)
+  title: Improving the tensile strength of carbon nanotube yarn via one-step double [2+1] cycloadditions
+  type: article-journal
+  URL: http://link.springer.com/10.1007/s11814-015-0140-9
+  volume: 33
+  year: 2016
+
+- id: 2015_lee_a
+  author:
+    - family: Lee
+      given: Jaegeun
+    - family: Oh
+      given: Eugene
+    - family: Kim
+      given: Teawon
+    - family: Sa
+      given: Jeong-Hoon
+    - family: Lee
+      given: Sung-Hyun
+    - family: Park
+      given: Junbeom
+    - family: Moon
+      given: Dustin
+    - family: Kang
+      given: In Seok
+    - family: Kim
+      given: Myung Jong
+    - family: Kim
+      given: Seung Min
+    - family: Lee
+      given: Kun-Hong
+  citation-key: 2015_lee_a
+  container-title: Carbon
+  container-title-short: Carbon
+  DOI: 10.1016/j.carbon.2015.05.080
+  page: 217
+  source: DOI.org (Crossref)
+  title: The influence of boundary layer on the growth kinetics of carbon nanotube forests
+  type: article-journal
+  URL: https://linkinghub.elsevier.com/retrieve/pii/S000862231500487X
+  volume: 93
+  year: 2015
+
+- id: 2015_lee_
+  author:
+    - family: Lee
+      given: Sung-Hyun
+    - family: Park
+      given: Junbeom
+    - family: Kim
+      given: Hye-Rim
+    - family: Lee
+      given: Jaegeun
+    - family: Lee
+      given: Kun-Hong
+  citation-key: 2015_lee_
+  container-title: RSC Advances
+  container-title-short: RSC Adv.
+  DOI: 10.1039/C5RA04691B
+  page: 41894
+  source: DOI.org (Crossref)
+  title: Synthesis of high-quality carbon nanotube fibers by controlling the effects of sulfur on the catalyst agglomeration during the direct spinning process
+  type: article-journal
+  URL: http://xlink.rsc.org/?DOI=C5RA04691B
+  volume: 5
+  year: 2015
+
+- id: 2015_kim_a
+  author:
+    - family: Kim,
+      given: Jin-seok
+    - family: Park
+      given: Junbeom
+    - family: Kim
+      given: Seung-Min
+    - family: Kwac
+      given: Lee-Ku
+    - family: Hwang
+      given: Jun Yeon
+  citation-key: 2015_kim_a
+  container-title: Composites Research
+  DOI: 10.7234/COMPOSRES.2015.28.4.239
+  page: 239
+  source: DOI.org (CSL JSON)
+  title: Enhancement of the Mechanical Properties of CNT Fibers Synthesized by Direct Spinning Method with Various Post-Treatments
+  type: article-journal
+  URL: https://doi.org/10.7234/COMPOSRES.2015.28.4.239
+  volume: 28
+  year: 2015
+
+- id: 2013_lee_
+  author:
+    - family: Lee
+      given: Jaegeun
+    - family: Oh
+      given: Eugene
+    - family: Kim
+      given: Hye-Jin
+    - family: Cho
+      given: Seungho
+    - family: Kim
+      given: Teawon
+    - family: Lee
+      given: Sunghyun
+    - family: Park
+      given: Junbeom
+    - family: Kim
+      given: Hee Jin
+    - family: Lee
+      given: Kun-Hong
+  citation-key: 2013_lee_
+  container-title: Journal of Materials Science
+  container-title-short: J Mater Sci
+  DOI: 10.1007/s10853-013-7494-3
+  page: 6897
+  source: DOI.org (Crossref)
+  title: The reason for an upper limit to the height of spinnable carbon nanotube forests
+  type: article-journal
+  URL: http://link.springer.com/10.1007/s10853-013-7494-3
+  volume: 48
+  year: 2013
+
+- id: 2012_park_
+  author:
+    - family: Park
+      given: Junbeom
+    - family: Lee
+      given: Kun-Hong
+  citation-key: 2012_park_
+  container-title: Korean Journal of Chemical Engineering
+  container-title-short: Korean J. Chem. Eng.
+  DOI: 10.1007/s11814-012-0016-1
+  page: 277
+  title: Carbon nanotube yarns
+  type: article-journal
+  URL: http://link.springer.com/10.1007/s11814-012-0016-1
+  volume: 29
+  year: 2012
