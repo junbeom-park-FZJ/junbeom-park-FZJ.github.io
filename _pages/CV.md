@@ -58,7 +58,7 @@ toc_sticky: true
             Institute of Energy Technologies - Fundamental Electrochemistry (IET-1)<br>
             <i>Forschungszentrum Jülich (FZJ)</i> <br>
             Topic: Machine Learning-based analysis of electron microscopy data<br>
-            Skills: Python based data processing<br>
+            Skills: Python, Machine learning, in-situ TEM<br>
             Supervisor: Dr. Shibabrata Basak
         </td>
         <td>
@@ -129,19 +129,19 @@ toc_sticky: true
 <ul style="font-size:80%;">
     <li>
         <a href='mailto:s.basak@fz-juelich.de'><b>Dr. Shibabrata Basak</b></a>
-        : Institute of Energy Technologies - Fundamental Electrochemistry (IET-1), Forschungszentrum Jülich (FZJ), Germany
+        : Institute of Energy Technologies - Fundamental Electrochemistry (IET-1), <br> Forschungszentrum Jülich (FZJ), Germany
     </li>
     <li>
         <a href='mailto:seungmin.kim@kist.re.kr'><b>Dr. Seung Min Kim</b></a>
-        : Carbon Composite Mateirals Research center, Korea Institute of Science and Technology (KIST), South Korea
+        : Carbon Composite Mateirals Research center, <br> Korea Institute of Science and Technology (KIST), South Korea
     </li>
     <li>
         <a href='mailto:ce20047@postech.ac.kr'><b>Prof. Kun-Hong Lee</b></a>
-        : Department of Chemical Engineering, Pohang University of Science and Technology (POSTECH), South Korea
+        : (retired) Department of Chemical Engineering, <br> Pohang University of Science and Technology (POSTECH), South Korea
     </li>
     <li>
         <a href='mailto:jglee@pusan.ac.kr'><b>Prof. Jaegeun Lee</b></a>
-        : Department of Organic Material Science and Egnineering, Pusan National University (PNU), South Korea
+        : Department of Organic Material Science and Egnineering, <br> Pusan National University (PNU), South Korea
     </li>
 </ul>
 
@@ -245,12 +245,22 @@ toc_sticky: true
             Coventry, United Kingdom
         </td>
     </tr>
+    <tr>
+        <td>
+            <b>Session chair at Europe-Korea Conference 2025 (EKC2025)</b><br>
+            Session title: [CM1] Advanced Characterization Techniques on Material Science
+        </td>
+        <td>
+            Aug. 2025<br>
+            Wien, Austria
+        </td>
+    </tr>
 </table>
 <br>
 
 # Publications
-- Total number of papars: 38 (Main author papers: 9)
-- H-index: 20 (from Google scholar, as of 2025.01.05)
+- Total number of papers: 40 (Main author papers: 9)
+- H-index: 20 (from Google scholar, as of 2025.02.18)
 
 ## Key paper list
 1. **Toward Quantitative Electrodeposition via In Situ Liquid Phase Transmission Electron Microscopy: Studying Electroplated Zinc Using Basic Image Processing and 4D STEM** [[ref]](https://doi.org/10.1002/smtd.202400081)<br>

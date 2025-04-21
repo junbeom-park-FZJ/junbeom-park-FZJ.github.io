@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Analysis of structure and mechanical properties of material"
-permalink: /docs/material_analysis
+permalink: /docs/mat_fab_analysis
 classes: wide
 ---
 
