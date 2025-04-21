@@ -6,7 +6,7 @@ permalink: /researches/
 classes: wide
 
 feature_row:
-  - image_path: /assets/images/Researches/1_Mat_fabrication/Video_CNT_fiber_fabrication.gif
+  - image_path: /assets/images/Researches/1_mat_fab_analysis/Video_CNT_fiber_fabrication.gif
     alt: "Material fabrication and analysis"
     title: "Material fabrication and analysis"
     # excerpt: >

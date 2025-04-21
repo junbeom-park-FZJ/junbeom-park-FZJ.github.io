@@ -4,7 +4,7 @@ title: "Fabrication of carbon nanotube fiber via floating catalyst method"
 permalink: /docs/CNT_fiber_fabrication
 classes: wide
 feature_row:
-  - image_path: /assets/images/Researches/Synthesis_of_CNT_yarn.gif
+  - image_path: /assets/images/Researches/1_mat_fab_analysis/Video_CNT_fiber_fabrication.gif
     alt: "Carbon nanotube fiber fabrication"
     # title: "Carbon nanotube fiber febrication"
     # excerpt: >
