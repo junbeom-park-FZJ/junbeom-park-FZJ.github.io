@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<!------
+Copy from jekyll-garden.github.io/_layouts/Post.html
+----------->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {% if page.title %}
+    <!---
+    copy from single.html
+    <meta itemprop="headline" content="{{ page.title | replace: '|', '&#124;' | markdownify | strip_html | strip_newlines | escape_once }}">
+    -->
+    
+    <meta content="{{ page.title}}" property="og:title">
+    <meta content="article" property="og:type">
+    <meta content="{{site.url}}{{page.url}}" property="og.url">
+
+    {%- else -%}
+    <meta content="website" property="og:type">
+    <meta content="{{site.url}}{{page.url}}" property="og.url">
+    {% endif %}
+
+    <title> {{page.title}} - {{site.heading}} </title>
+
+</head>
+
+<body>
+    <main>
+        {% include sidebar.html %}
+
+        {%- if page.feedformat -%}
+        <div class="column is-6-widescreen is-8-desktop is-8-tablet is-12-mobile">
+            <h5 class="meta-title"><a href="/"><-Home </a></h5>
+                <div class="jumbo">{{page.title}}</div>
+        {%- endif -%}
+
+
+        </div>
+
+
+    </main>
+</body>
+
+
+</html>

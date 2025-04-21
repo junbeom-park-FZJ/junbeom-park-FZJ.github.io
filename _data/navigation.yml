@@ -8,8 +8,8 @@ main:
     url: /Pub/
   - title: "Researches"
     url: /researches/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Digital Garden"
+    url: /notes/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

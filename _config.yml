@@ -124,7 +124,7 @@ author:
       url: "mailto:j.park@fz-juelich.de"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://go.fzj.de/j.park"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   # url: "https://twitter.com/"
@@ -224,6 +224,10 @@ collections:
   researches:
     output: true
     permalink: /:collection/:path/
+  
+  notes:
+    output: true
+    permalink: /note/:title
 
 
 # Sass/SCSS
@@ -270,6 +274,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-tidy       # add for digital garden (Jekyll-garden.github.io)
 
 # mimic GitHub Pages with --safe
 whitelist:
