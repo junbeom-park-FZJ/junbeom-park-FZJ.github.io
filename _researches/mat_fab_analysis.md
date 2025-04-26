@@ -36,7 +36,7 @@ feature_row:
     # btn_class: "btn--primary"
     # btn_label: "Learn more"      
 
-  - image_path: /assets/images/Researches/1_mat_fab_analysis/industry CNTF.png
+  - image_path: /assets/images/Researches/1_mat_fab_analysis/Industry CNTF.png
     alt: "Property enhancement and Analysis of industry scale CNTF"
     title: "Property enhancement and Analysis of industry scale CNTF"
     excerpt: >
