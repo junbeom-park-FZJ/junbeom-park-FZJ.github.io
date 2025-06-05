@@ -7,7 +7,7 @@ header:
   # overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Download my CV"
-      url: "/images/CV/Curriculum_Vitae.pdf"
+      url: "/Curriculum_Vitae.pdf"
 excerpt: >
   <div style="line-height:120%;color:white;">
     <b>Staff Scientist</b> at in-situ Electron Microscopy (iEM) group, <br>
