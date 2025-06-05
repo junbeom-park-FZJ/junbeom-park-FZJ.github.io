@@ -1,3 +1,15 @@
+- id: 2025_park
+  title: Understanding of exsolution for better SOEC electrode material via in-situ electron microscopy
+  author:
+    - name: Junbeom Park
+    - name: Pritam Chakraborty
+    - name: André Karl
+    - name: Eva Jodat
+    - name: Shibabrata Basak
+    - name: Rüdigar-A. Eichel
+  location: Aachen Hydrogen Colloquium 2025
+  city: Aachen, Germany
+  year: 2025
 
 - id: 2024_park_a
   title: Development of simple image processing for in-situ TEM toward live processing

@@ -1,3 +1,12 @@
+- id: 2025_park
+  type: Seminar
+  title: In-situ TEM and data processing on electrochemistry
+  author:
+    - name: Junbeom Park
+  location: VeKNI (The Korean Scientists and Engineers Association in Germany) Region 4&5 Workshop
+  city: Köln, Germany
+  year: 2025
+
 - id: 2024_park_b
   type: Seminar
   title: Strength measurement of Material
