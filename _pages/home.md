@@ -5,9 +5,9 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   # overlay_image: /assets/images/mm-home-page-feature.jpg
-  # actions:
-  #   - label: "<i class='fas fa-download'></i> Download my CV"
-  #     url: "/images/CV/Curriculum_vitae.pdf"
+  actions:
+    - label: "<i class='fas fa-download'></i> Download my CV"
+      url: "/_data/Curriculum_vitae.pdf"
 excerpt: >
   <div style="line-height:120%;color:white;">
     <b>Staff Scientist</b> at in-situ Electron Microscopy (iEM) group, <br>
