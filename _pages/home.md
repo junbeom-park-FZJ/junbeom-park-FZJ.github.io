@@ -7,11 +7,11 @@ header:
   # overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Download my CV"
-      url: "/_data/Curriculum_vitae.pdf"
+      url: "/images/CV/Curriculum_Vitae.pdf"
 excerpt: >
   <div style="line-height:120%;color:white;">
     <b>Staff Scientist</b> at in-situ Electron Microscopy (iEM) group, <br>
-    Low Temperature Water Electrolyzer (LTWE) department, <br>
+    Focus topic: Microscopy and Diffraction, <br>
     Institute of Energy Technologies-Fundamental Electrochemistry (IET-1), <br>
     Forschungszentrum Jülich (FZJ), Germany <br>
     <a href="https://scholar.google.com/citations?user=WXKca60AAAAJ&hl=en">Google scholar</a>
