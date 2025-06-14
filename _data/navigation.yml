@@ -4,12 +4,14 @@ main:
     url: /
   - title: "Curriculum Vitae"
     url: /CV/
-  - title: "Publications"
-    url: /Pub/
+  # - title: "Publications"
+  #   url: /Pub/
   - title: "Researches"
     url: /researches/
-  - title: "Digital Garden"
-    url: /notes/
+  - title: "Blog"
+    url: /categories/
+  - title: "Tag"
+    url: /tags/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

@@ -6,9 +6,11 @@ toc: true
 toc_sticky: true
 ---
 
+[Download my CV in PDF](/Curriculum_Vitae.pdf){: .btn .btn--primary}
+
 # Education
 
-<table style="width:1000px">
+<table style="width:1200px">
     <tr>
         <th style="width:75%">
             Degree, Institute
@@ -43,7 +45,7 @@ toc_sticky: true
 
 
 # Work experience
-<table style="width:1000px">
+<table style="width:1200px">
     <tr>
         <th style="width:75%">
             Position, Institute, Topic, Skills
@@ -313,3 +315,63 @@ Seung Min Kim, Hyeon Su Jeong, Jae Geun Lee, Dong Myeong Lee, Hun Su Lee, Young 
 Seung Min Kim, Hanbin Park, Sook Young Moon, Hyeon Su Jeong, Young Kwan Kim, <i><u>Jun Beom Park</u></i> <br> KR 10-1981675
 1. **Production method of high performance carbon nano tube/carbon composite fiber and carbon nanotube/carbon composite fiber thereby** [[ref]](https://patents.google.com/patent/KR101726823B1/en)<br>
 Seung Min Kim, Jae Geun Lee, Dong Myeong Lee, <i><u>Jun Beom Park</u></i>, Jun Yeon Hwang, Hyeon Su Jeong <br> KR 10-1726823
+
+## 3. Presentations
+### A. Seminars and Lectures (6)
+
+<ol>
+{% for paper in site.data.Presentation_seminar %}
+  <li>
+    ({{paper.type}})  <b>{{ paper.title }}</b> <br>
+
+    {% for author in paper.author %}
+        {% if author.name == "Junbeom Park" %}
+            <i><u> {{author.name}}</u></i>,
+        {% else %}
+            {{author.name}},
+        {% endif %}
+    {% endfor %}
+
+    <br> {{ paper.location }} ({{ paper.year }}) {{ paper.city }} <br>
+  </li>
+{% endfor %}
+</ol>
+
+### B. Oral presentations at conferences (5)
+<ol>
+{% for paper in site.data.Presentation_oral %}
+  <li>
+    <b>{{ paper.title }}</b> <br>
+
+    {% for author in paper.author %}
+        {% if author.name == "Junbeom Park" %}
+            <i><u> {{author.name}}</u></i>,
+        {% else %}
+            {{author.name}},
+        {% endif %}
+    {% endfor %}
+
+    <br> {{ paper.location }} ({{ paper.year }}) {{ paper.city }} <br>
+  </li>
+{% endfor %}
+</ol>
+
+### C. Poster presentations at conferences (18)
+
+<ol>
+{% for paper in site.data.Presentation_poster %}
+  <li>
+    <b>{{ paper.title }}</b> <br>
+
+    {% for author in paper.author %}
+        {% if author.name == "Junbeom Park" %}
+            <i> {{author.name}}</i>,
+        {% else %}
+            {{author.name}},
+        {% endif %}
+    {% endfor %}
+
+    <br> {{ paper.location }} ({{ paper.year }}) {{ paper.city }} <br>
+  </li>
+{% endfor %}
+</ol>
