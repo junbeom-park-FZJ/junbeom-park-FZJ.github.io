@@ -1,10 +1,10 @@
 ---
 layout: single
 title: "독일 정부출연연구소 구조 소개"
-categories: mentoring
+categories: 독일유학
 toc: true
 toc_sticky: true
-tag: [정출연, 독일, 한국어]
+tag: [정출연, 독일]
 ---
 
 # 독일의 4대 정부출연연구소 연합체
