@@ -14,6 +14,7 @@ excerpt: >
     Focus topic: Microscopy and Diffraction, <br>
     Institute of Energy Technologies-Fundamental Electrochemistry (IET-1), <br>
     Forschungszentrum Jülich (FZJ), Germany <br>
+    <a href="mailto:j.park@fz-juelich.de">E-mail</a>
     <a href="https://scholar.google.com/citations?user=WXKca60AAAAJ&hl=en">Google scholar</a>
     <a href="https://orcid.org/0000-0003-2548-2985">ORCID</a>
     <a href="https://www.fz-juelich.de/en/iet/iet-1/our-research/focus-topics/microscopy/i-em"> iEM group webpage</a>
@@ -29,3 +30,5 @@ excerpt: >
 - My experience began from **material synthesis** (carbon nanotube fiber via floating catalyst method) and **material analysis** (morphology, structural arrangement, crystallinity and mechanical properties). 
 - After that, I shifted to the **in-situ TEM technique**, which enables to investigate the variety of material's properties (ex. phase, crystallinity, composition) or process (ex. agglomeration, electrodeposition) related to environmental conditions (ex. temperature, gas pressure, electricity). 
 - Additionally, I started python based **image processing** (ex. segmentation, edge detection) to extract more information from various electron microscopy data (ex. in-situ video, Tomography, 4D STEM).
+
+![Personal Timeline](assets\images\CV\Timeline.png)

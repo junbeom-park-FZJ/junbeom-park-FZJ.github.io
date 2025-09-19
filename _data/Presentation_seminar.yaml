@@ -1,3 +1,12 @@
+- id: 2025_park_a
+  type: Seminar
+  title: Academic Research Ecosystem in Germany
+  author:
+    - name: Junbeom Park
+  location: KERC (Korea-EU Research Centre) supporters meeting
+  city: Brussels, Belgium
+  year: 2025
+
 - id: 2025_park
   type: Seminar
   title: In-situ TEM and data processing on electrochemistry

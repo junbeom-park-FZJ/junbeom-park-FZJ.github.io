@@ -59,8 +59,8 @@ toc_sticky: true
             <b>Staff scientist</b><br>
             Institute of Energy Technologies - Fundamental Electrochemistry (IET-1)<br>
             <i>Forschungszentrum Jülich (FZJ)</i> <br>
-            Topic: Machine Learning-based analysis of electron microscopy data<br>
-            Skills: Python, Machine learning, in-situ TEM<br>
+            Topic: Investigation of electrochemical mechanisms via in-situ TEM<br>
+            Skills: TEM, in-situ TEM, FIB/SEM, Image processing, Python<br>
             Supervisor: Dr. Shibabrata Basak
         </td>
         <td>
@@ -249,6 +249,26 @@ toc_sticky: true
     </tr>
     <tr>
         <td>
+            <b>KERC supporters: Korea-Europe Science Ambassadors</b><br>
+            Korea-EU Research Centre (K-ERC)
+        </td>
+        <td>
+            Jul. 2025 - Present<br>
+            Brussels, Belgium
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Session chair at Europe-Korea Conference 2025 (EKC2025)</b><br>
+            Session title: [CM2] Advanced Characterization Techniques on Material Science
+        </td>
+        <td>
+            Aug. 2025<br>
+            Wien, Austria
+        </td>
+    </tr>
+    <tr>
+        <td>
             <b>Session chair at Europe-Korea Conference 2024 (EKC2024)</b><br>
             Session title: [CM1] Advanced Characterization Techniques on Material Science
         </td>
@@ -257,35 +277,28 @@ toc_sticky: true
             Coventry, United Kingdom
         </td>
     </tr>
-    <tr>
-        <td>
-            <b>Session chair at Europe-Korea Conference 2025 (EKC2025)</b><br>
-            Session title: [CM1] Advanced Characterization Techniques on Material Science
-        </td>
-        <td>
-            Aug. 2025<br>
-            Wien, Austria
-        </td>
-    </tr>
+
 </table>
 <br>
 
 # Publications
 - Total number of papers: 40 (Main author papers: 9)
-- H-index: 20 (from Google scholar, as of 2025.02.18)
+- H-index: 21 (from Google scholar, as of 2025.09.19)
 
 ## Key paper list
 1. **Toward Quantitative Electrodeposition via In Situ Liquid Phase Transmission Electron Microscopy: Studying Electroplated Zinc Using Basic Image Processing and 4D STEM** [[ref]](https://doi.org/10.1002/smtd.202400081)<br>
 *Junbeom Park*, Sarmila Dutta, Hongyu Sun, Janghyun Jo, Pranav Karanth, Dieter Weber, Amir H. Tavabi, Yasin Emre Durmus, Krzysztof Dzieciol, Eva Jodat, André Karl, Hans Kungl, Yevheniy Pivak, H. Hugo Pérez Garza, Chandramohan George, Joachim Mayer, Rafal E. Dunin-Borkowski, Shibabrata Basak, Rüdiger-A. Eichel | Small Methods (2024) DOI:10.1002/smtd.202400081
 1. **Titanium nitride microelectrode: a new candidate for in-situ electrochemical transmission electron microscopy study** [[ref]](https://doi.org/10.1002/adem.202302146)<br>
-*Junbeom Park#*, Ningyan Cheng#, Binghui Ge, Yevheniy Pivak, Hongyu Sun, H. Hugo Pérez Garz, Shibabrata Basak, Rüdiger-A. Eichel | Advanced Engineering Materials (2024)DOI:10.1002/adem.202302146 (#: Equal contribution)
+*Junbeom Park#*, Ningyan Cheng#, Binghui Ge, Yevheniy Pivak, Hongyu Sun, H. Hugo Pérez Garz, Shibabrata Basak, Rüdiger-A. Eichel | Advanced Engineering Materials (2024) DOI:10.1002/adem.202302146 (#: Equal contribution)
 1. **Structural Study of Polyacrylonitrile-Based Carbon Nanofibers for Understanding Gas Adsorption** [[ref]](http://dx.doi.org/10.1021/acsami.1c13541)<br>
 *Junbeom Park*, Ansgar Kretzschmar, Victor Selmert, Osmane Camara, Hans Kungl, Hermann Tempel, Shibabrata Basak, Rüdiger A. Eichel | ACS Applied Materials & Interfaces 13 (2021) 46665
+1. **Improving mechanical and physical properties of ultra-thick carbon nanotube fiber by fast swelling and stretching process** [[ref]](http://doi.org/10.1016/j.carbon.2020.10.068)<br>
+Dong-Myeong Lee+, *Junbeom Park+*, Jaegeun Lee, Sung-Hyun Lee, Shin-Hyun Kim, Seung Min Kim, Hyeon Su Jeong | Carbon 172 (2021) 733 (+: Equal contribution)
 1. **Mathematical model for the dynamic behavior of carbon nanotube yarn in analogy with hierarchically structured bio-materials** [[ref]](https://doi.org/10.1016/j.carbon.2019.05.077)<br>
 *Junbeom Park*, Jaegeun Lee, Dong-Myeong Lee, Sung-Hyun Lee, Hyeon Su Jeong, Kun-Hong Lee, Seung Min Kim | Carbon 152 (2019) 151
 
 ## 1. Journal papers (40)
-- H-index: 20 (from <a href="https://scholar.google.com/citations?user=WXKca60AAAAJ&hl=en">Google scholar</a>, as of 2025.02.18)
+- H-index: 21 (from <a href="https://scholar.google.com/citations?user=WXKca60AAAAJ&hl=en">Google scholar</a>, as of 2025.09.19)
 <ol>
 {% for paper in site.data.Publication_list %}
   <li>
@@ -317,7 +330,7 @@ Seung Min Kim, Hanbin Park, Sook Young Moon, Hyeon Su Jeong, Young Kwan Kim, <i>
 Seung Min Kim, Jae Geun Lee, Dong Myeong Lee, <i><u>Jun Beom Park</u></i>, Jun Yeon Hwang, Hyeon Su Jeong <br> KR 10-1726823
 
 ## 3. Presentations
-### A. Seminars and Lectures (6)
+### A. Seminars and Lectures
 
 <ol>
 {% for paper in site.data.Presentation_seminar %}
@@ -337,7 +350,7 @@ Seung Min Kim, Jae Geun Lee, Dong Myeong Lee, <i><u>Jun Beom Park</u></i>, Jun Y
 {% endfor %}
 </ol>
 
-### B. Oral presentations at conferences (5)
+### B. Oral presentations at conferences
 <ol>
 {% for paper in site.data.Presentation_oral %}
   <li>
@@ -356,7 +369,7 @@ Seung Min Kim, Jae Geun Lee, Dong Myeong Lee, <i><u>Jun Beom Park</u></i>, Jun Y
 {% endfor %}
 </ol>
 
-### C. Poster presentations at conferences (18)
+### C. Poster presentations at conferences
 
 <ol>
 {% for paper in site.data.Presentation_poster %}

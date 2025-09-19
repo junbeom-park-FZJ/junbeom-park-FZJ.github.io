@@ -1,3 +1,19 @@
+- id: 2025_park_a
+  title: Python-Based Data Processing for Quantitative Analysis of Focused Ion Beam (FIB) Tomography
+  author:
+    - name: Junbeom Park
+    - name: Tobias Mehlkoph
+    - name: Adolé Imelda Akue-Goeh
+    - name: Pritam Chakraborty
+    - name: Jean-Pierre Poc
+    - name: André Karl
+    - name: Eva Jodat
+    - name: Shibabrata Basak
+    - name: Rüdiger-A. Eichel
+  location: Microscopy Conference 2025
+  city: Karlsruhe, Germany
+  year: 2025
+
 - id: 2025_park
   title: Understanding of exsolution for better SOEC electrode material via in-situ electron microscopy
   author:
@@ -6,7 +22,7 @@
     - name: André Karl
     - name: Eva Jodat
     - name: Shibabrata Basak
-    - name: Rüdigar-A. Eichel
+    - name: Rüdiger-A. Eichel
   location: Aachen Hydrogen Colloquium 2025
   city: Aachen, Germany
   year: 2025
@@ -20,7 +36,7 @@
     - name: Eva Jodat
     - name: André Karl
     - name: Shibabrata Basak
-    - name: Rüdigar-A. Eichel
+    - name: Rüdiger-A. Eichel
   location: European Microscopy Congress 2024 (EMC2024)
   city: Copenhagen, Denmark
   year: 2024
@@ -34,7 +50,7 @@
     - name: Eva Jodat
     - name: André Karl
     - name: Shibabrata Basak
-    - name: Rüdigar-A. Eichel
+    - name: Rüdiger-A. Eichel
   location: PICO2024
   city: Vaals, Netherlands
   year: 2024
@@ -46,7 +62,7 @@
     - name: Hongyu Sun
     - name: Janghyun Jo
     - name: Shibabrata Basak
-    - name: Rüdigar-A. Eichel
+    - name: Rüdiger-A. Eichel
   location: The 20th International Microscopy Congress (IMC20)
   city: Busan, Korea
   year: 2023
@@ -61,7 +77,7 @@
     - name: Hans Kungl
     - name: Hermann Tempel
     - name: Shibabrata Basak
-    - name: Rüdigar-A. Eichel
+    - name: Rüdiger-A. Eichel
   location: PICO 2022
   city: Vaals, Netherlands
   year: 2022
